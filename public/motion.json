@@ -39,23 +39,6 @@
           ]
         },
         {
-          "src": "/assets/motion/01/text-04.webp",
-          "delay": 0.345,
-          "kind": "body",
-          "bounds": [
-            537.6,
-            584.8,
-            732.8,
-            682.4
-          ],
-          "frame": [
-            537.6,
-            584.8,
-            732.8,
-            682.4
-          ]
-        },
-        {
           "src": "/assets/motion/01/text-03.webp",
           "delay": 0.27,
           "kind": "heading",
@@ -70,6 +53,23 @@
             596.8,
             1282.4,
             774.4
+          ]
+        },
+        {
+          "src": "/assets/motion/01/text-04.webp",
+          "delay": 0.345,
+          "kind": "body",
+          "bounds": [
+            531.2,
+            588.8,
+            735.2,
+            690.4
+          ],
+          "frame": [
+            531.2,
+            588.8,
+            735.2,
+            690.4
           ]
         },
         {
