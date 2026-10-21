@@ -1,0 +1,29 @@
+{
+  "name": "orbix-pitch-deck",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "prepare:content": "node scripts/prepare_ai.mjs",
+    "check:reader": "node scripts/check_reader.mjs",
+    "check:motion": "node scripts/check_motion.mjs",
+    "predev": "npm run prepare:content",
+    "dev": "vite --host 127.0.0.1",
+    "prebuild": "npm run prepare:content",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "playwright": "^1.64.0",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.3"
+  }
+}

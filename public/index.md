@@ -1,0 +1,1489 @@
+# Orbix Studio — Pitch Deck
+
+Content is a snapshot of the supplied Orbix Studio pitch deck, exported from Figma. Source text and line breaks are preserved, including repeated branding. Slides marked visual-only contain artwork with no extracted text; consult their original images or the PDF.
+
+57 slides · 6 sections · 11 visual-only slides
+
+[Interactive viewer](<http://127.0.0.1:5188/>) · [Readable HTML](<http://127.0.0.1:5188/read/>) · [Structured JSON](<http://127.0.0.1:5188/data/deck.json>) · [Original PDF](<http://127.0.0.1:5188/assets/orbix-pitch-deck.pdf>)
+
+Source: [Original Figma file](<https://www.figma.com/design/W5FZYbLVrkrIdSb3kwpL94/Branding---Graphical-Elements?node-id=961-3139>)
+
+## Introduction
+
+### Slide 1: Company deck
+
+Source PDF page: 1 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-1>) · [Read slide](<http://127.0.0.1:5188/read/#slide-1>) · [Original image](<http://127.0.0.1:5188/assets/slides/01.webp>)
+
+```text
+Company
+Deck
+Orbix Studio
+Europe
+Design
+©2026
+10+ YEARS OF
+DESIGN EXPERIENCE
+STRATEGY — UI/UX 
+DEVELOPMENT
+Orbix Studio
+```
+
+### Slide 2: What’s inside
+
+Source PDF page: 2 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-2>) · [Read slide](<http://127.0.0.1:5188/read/#slide-2>) · [Original image](<http://127.0.0.1:5188/assets/slides/02.webp>)
+
+```text
+What’s Inside
+See what we do, how we work, and where we can 
+take your next big idea.
+01. Introduction
+02. Services
+06. Next Step
+04. Who We Are
+03. Case Studies
+05. Engagement
+Orbix Studio
+```
+
+### Slide 3: Ambitious digital experiences
+
+Source PDF page: 3 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-3>) · [Read slide](<http://127.0.0.1:5188/read/#slide-3>) · [Original image](<http://127.0.0.1:5188/assets/slides/03.webp>)
+
+```text
+Product × Design × Growth
+businesses forward
+experiences that
+move
+We build
+ambitious
+digital
+By bringing brand, product, and technology together, we help 
+teams launch and scale with confidence
+C l e a r e r P r o d u c t s
+B r i g h t e r g r o w t h
+Orbix Studio
+```
+
+### Slide 4: Our core proposition
+
+Source PDF page: 4 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-4>) · [Read slide](<http://127.0.0.1:5188/read/#slide-4>) · [Original image](<http://127.0.0.1:5188/assets/slides/04.webp>)
+
+```text
+Product × Design × Growth
+Our Core 
+Proposition
+Traditional agencies deliver polished visuals. We 
+build clear, scalable product systems that help 
+ambitious businesses grow.
+Strategy
+Design
+Build
+Scale
+Scalable
+Systems
+Design and build for
+long-term growth
+Happier
+Customers
+Better  experience
+Stronger relationships
+Business
+Impact
++300%
+Orbix Studio
+```
+
+### Slide 5: The problems we solve
+
+Source PDF page: 5 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-5>) · [Read slide](<http://127.0.0.1:5188/read/#slide-5>) · [Original image](<http://127.0.0.1:5188/assets/slides/05.webp>)
+
+```text
+Product × Design × Growth
+The Problems
+We Solve
+01
+02
+Inconsistent brand 
+experiences that weaken 
+customer trust
+Websites that attract 
+visitors but fail to convert
+Orbix Studio
+Design gaps can weaken customer trust and 
+slow development. We help resolve the issues 
+holding your business back.
+03
+04
+Complex products that 
+make everyday tasks 
+difficult
+Incomplete design handoffs 
+that cause rework and delay 
+launches
+```
+
+### Slide 6: Better product experiences
+
+Source PDF page: 6 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-6>) · [Read slide](<http://127.0.0.1:5188/read/#slide-6>) · [Original image](<http://127.0.0.1:5188/assets/slides/06.webp>)
+
+```text
+Product × Design × Growth
+When your product is hard to use, users leave 
+and growth slows. We help you fix what's 
+holding your product back and build better 
+experiences that drive growth.
+Clear UX. Scalable systems. 
+DEVELOPMENT
+Better product 
+experiences.
+Orbix Studio
+```
+
+### Slide 7: Our design process
+
+Source PDF page: 7 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-7>) · [Read slide](<http://127.0.0.1:5188/read/#slide-7>) · [Original image](<http://127.0.0.1:5188/assets/slides/07.webp>)
+
+```text
+Product × Design × Growth
+Our Design
+Process
+We take your product from idea to launch in three 
+phases: Discover the right opportunities, design better 
+user experiences, and build a product ready to grow.
+01
+02
+03
+Orbix Studio
+Discover
+We uncover user needs, 
+business goals, and product 
+challenges through research.
+Design
+We transform those insights into 
+intuitive flows, interfaces, and 
+scalable systems.
+Build
+We bring the design to life 
+with polished UI and 
+developer-ready handoff.
+```
+
+### Slide 8: Why product-led design matters
+
+Source PDF page: 8 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-8>) · [Read slide](<http://127.0.0.1:5188/read/#slide-8>) · [Original image](<http://127.0.0.1:5188/assets/slides/08.webp>)
+
+```text
+Product × Design × Growth
+Why Product-Led
+Design Matters
+Poor product experiences lead to lower conversions and higher churn. Product-led design helps 
+you improve usability, retain customers, and support long-term growth.
+Faster Onboarding
+Higher Conversion
+Stronger Retention
+Scalable Feature expansion
+Long-Term Brand Value
+Orbix Studio
+```
+
+### Slide 9: From design to development
+
+Source PDF page: 9 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-9>) · [Read slide](<http://127.0.0.1:5188/read/#slide-9>) · [Original image](<http://127.0.0.1:5188/assets/slides/09.webp>)
+
+```text
+Product × Design × Growth
+95+
+4.95/5
+$5B
+Products & projects 
+delivered
+10 Years
+Average client 
+satisfaction
+Everything Your Product Need,
+From Design to Development
+Orbix Studio
+Combined client 
+valuation
+Building digital 
+products globally
+```
+
+## Services & process
+
+### Slide 10: Strategy & research
+
+Source PDF page: 10 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-10>) · [Read slide](<http://127.0.0.1:5188/read/#slide-10>) · [Original image](<http://127.0.0.1:5188/assets/slides/10.webp>)
+
+```text
+Product × Design × Growth
+Strategy &
+Research
+We look beyond the obvious to understand your users, 
+market, and product. By uncovering unmet needs and 
+opportunities, we give every design decision a clear 
+direction and a stronger business purpose.
+Usability
+UX/UI Design
+Performance
+Apps
+Orbix Studio
+```
+
+### Slide 11: Brand systems
+
+Source PDF page: 11 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-11>) · [Read slide](<http://127.0.0.1:5188/read/#slide-11>) · [Original image](<http://127.0.0.1:5188/assets/slides/11.webp>)
+
+```text
+Product × Design × Growth
+Brand 
+Systems
+Orbix Studio
+A strong brand is more than a 
+logo. We create flexible systems that 
+keep every product, campaign, and 
+customer touchpoint visually aligned 
+as the business grows.
+```
+
+### Slide 12: Interface design
+
+Source PDF page: 12 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-12>) · [Read slide](<http://127.0.0.1:5188/read/#slide-12>) · [Original image](<http://127.0.0.1:5188/assets/slides/12.webp>)
+
+```text
+Orbix Studio
+Product × Design × Growth
+Interface 
+Design
+Your interface is where customers 
+experience your product. We design 
+clear layouts, visual hierarchy, and UI 
+systems that guide actions while 
+maintaining consistency.
+Cardiologist
+Dr. Vetrick W.
+High Blood Pressure (Hypertension) 
+heart rate: 132 bpm 
+9.20
+6.10
+Hgb
+RBC
+10:00 AM
+Monthly Expense
+This Month
+60%
+20%
+5%
+15%
+Protein
+7
+Days
+Hydration
+8%
+2.6 L
+Balance
+12
+Meals
+Vitamins
+Fiber
+76%
+5 Days
+Sugar
+Daily Needs
+Savings
+Shopping
+Others
+9/12
+9/12
+Pain Level Increased 
+Patient reports pain level at 7 out of 10 an increase.
+Swelling Progressing
+The patient’s pain severity has worsened recently.
+Increase in Pain Level Noted
+The patient mentions their pain has gotten more intense.
+High
+Enter Amount
+$250.00
+Doctor Profile
+USD
+Olivia Smith
+Dr. Maya Bennett
+Philosophy
+Available
+Critical
+Phone Number
+Email Address
++ (444) 654 - 4326
+mayabenne@gmail.com
+Message
+Address
+123 Maple Street, 6542
+Book Appointment
+High
+Estimated Delivery
+Instant – 10 min
+Alex Morgan
+```
+
+### Slide 13: UX architecture
+
+Source PDF page: 13 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-13>) · [Read slide](<http://127.0.0.1:5188/read/#slide-13>) · [Original image](<http://127.0.0.1:5188/assets/slides/13.webp>)
+
+```text
+ud Score
+Orbix Studio
+Product × Design × Growth
+UX 
+Architecture
+As products grow, structure becomes 
+essential. We structure the information 
+hierarchy and workflow logic that 
+organize complex product systems.
+Ask anything...
+Inbox
+Dashboard
+Inbox
+Total Note
+128 Notes
+3
++243 
+Collaborate with friends and 
+study together anytime
+Claude 3.5
+12 Folders
+Jordan Taylor
+I’d appreciate an estimat
+12
+Jamie Parker
+I’d like to reques
+12 Folders
+Alexandr
+112
+Could 
+32
+U
+12
+2
+Total Note
+5
+Freud Score
+Journal
+Inbox
+Journal
+Your Inbox
+Your Inbox
+Mentions
+Created by you
+Unassigned
+128 Notes
+6 open
++243 
+3
+Collaborate with friends and 
+study together anytime
+6
+80
+Healthy
+25/365
+Normal
+25/365
+Normal
+112
+32
+8
+0
+Sent
+```
+
+### Slide 14: Product design & development
+
+Source PDF page: 14 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-14>) · [Read slide](<http://127.0.0.1:5188/read/#slide-14>) · [Original image](<http://127.0.0.1:5188/assets/slides/14.webp>)
+
+```text
+Product × Design × Growth
+01
+Product 
+Design
+Turn your idea into a product 
+that's easy to use,& built around 
+what your customers need.
+02
+Development 
+Capabilities
+Clean, scalable implementation 
+that keeps design and 
+engineering closely aligned.
+Orbix Studio
+Design Systems 
+& Scalability
+Reusable components and patterns 
+that help products grow without losing 
+consistency.
+03
+04
+AI & Automation 
+Integration
+Smart workflows and automation 
+integrated where they create real 
+product value.
+```
+
+### Slide 15: Our full-cycle design process
+
+Source PDF page: 15 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-15>) · [Read slide](<http://127.0.0.1:5188/read/#slide-15>) · [Original image](<http://127.0.0.1:5188/assets/slides/15.webp>)
+
+```text
+Product × Design × Growth
+Our Full Cycle
+Product Design 
+Process
+From the initial plan to ongoing 
+improvements, we help you shape, build, and 
+refine your product.
+Orbix Studio
+Strategic Alignment
+Objectives, stakeholder mapping, and measurable 
+success criteria defined upfront.
+System Design
+UX architecture, design systems, and interface 
+frameworks built to specification.
+Implementation Support
+Engineering collaboration, dev-ready handoffs, 
+and QA validation across milestones.
+Iterative Optimization
+Performance tracking, feature expansion, and 
+continuous improvement cycles.
+```
+
+### Slide 16: From discovery to optimization
+
+Source PDF page: 16 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-16>) · [Read slide](<http://127.0.0.1:5188/read/#slide-16>) · [Original image](<http://127.0.0.1:5188/assets/slides/16.webp>)
+
+```text
+Product × Design × Growth
+01
+02
+03
+04
+05
+06
+07
+08
+Orbix Studio
+Executive Discovery & Objective Definition
+Research & Risk Assessment
+Architecture & Experience Framework
+Interface System Development
+Prototype Validation
+Engineering Alignment & Implementation
+Quality Assurance & Performance Testing
+Launch & Ongoing Optimization
+```
+
+### Slide 17: Detailed project workflow
+
+Source PDF page: 17 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-17>) · [Read slide](<http://127.0.0.1:5188/read/#slide-17>) · [Original image](<http://127.0.0.1:5188/assets/slides/17.webp>)
+
+```text
+Product × Design × Growth
+Detailed Project 
+Workflow
+From the first meeting to launch, every project follows a clear plan. You know 
+what we're working on, what you'll receive at each stage, and how the project is 
+progressing.
+Orbix Studio
+```
+
+### Slide 18: Growth without the chaos
+
+Source PDF page: 18 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-18>) · [Read slide](<http://127.0.0.1:5188/read/#slide-18>) · [Original image](<http://127.0.0.1:5188/assets/slides/18.webp>)
+
+```text
+Product × Design × Growth
+Fewer Costly 
+Mistakes
+Catch issues early. 
+Avoid costly rework.
+Teams 
+Working in 
+Sync
+Align teams and goals to 
+keep projects moving.
+Orbix Studio
+GrowthWithout 
+the Chaos
+Build a strong 
+foundation for growth.
+```
+
+### Slide 19: Measured impact
+
+Source PDF page: 19 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-19>) · [Read slide](<http://127.0.0.1:5188/read/#slide-19>) · [Original image](<http://127.0.0.1:5188/assets/slides/19.webp>)
+
+```text
+Measured 
+Impact
+Better product experiences lead to better 
+business outcomes from converting more 
+users to helping teams ship faster.
+01
+02
+03
+Conversion Rate 
+Optimization 
+Clearer interfaces and smoother user journeys 
+help more people complete key actions.
+Onboarding 
+Efficiency 
+A simpler first-time experience helps new users 
+understand your product and reach value sooner.
+Feature Release 
+Velocity 
+Consistent design and clear developer handoffs help 
+teams build and release features with less rework.
+```
+
+### Slide 20: Better workflows, stronger retention
+
+Source PDF page: 20 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-20>) · [Read slide](<http://127.0.0.1:5188/read/#slide-20>) · [Original image](<http://127.0.0.1:5188/assets/slides/20.webp>)
+
+```text
+Product × Design × Growth
+Design & 
+Development 
+Rework 
+Structured documentation and 
+alignment processes significantly 
+reduce costly back-and.
+User 
+Friction in 
+Workflows 
+Clearer onboarding flows and reduced 
+friction accelerate time-to-value for 
+new users.
+Enterprise 
+Usability & 
+Retention 
+Products designed for enterprise-grade 
+usability experience stronger long-term 
+retention and.
+Orbix Studio
+```
+
+### Slide 21: Performance metrics
+
+Source PDF page: 21 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-21>) · [Read slide](<http://127.0.0.1:5188/read/#slide-21>) · [Original image](<http://127.0.0.1:5188/assets/slides/21.webp>)
+
+```text
+Orbix Studio
+Product × Design × Growth
+performance
+We focus
+metrics
+n
+not visuals
+output alone
+```
+
+## Selected work
+
+### Slide 22: Selected work
+
+Source PDF page: 22 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-22>) · [Read slide](<http://127.0.0.1:5188/read/#slide-22>) · [Original image](<http://127.0.0.1:5188/assets/slides/22.webp>)
+
+```text
+Product × Design × Growth
+Selected
+Work
+Every engagement we take on is built 
+around a scalable digital ecosystem that 
+performs. Our work spans SaaS, fintech, 
+logistics, and enterprise platforms.
+Orbix Studio
+```
+
+### Slide 23: Tuccan — brand identity
+
+Source PDF page: 23 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-23>) · [Read slide](<http://127.0.0.1:5188/read/#slide-23>) · [Original image](<http://127.0.0.1:5188/assets/slides/23.webp>)
+
+```text
+Happy Days
+Ready     to     Go.
+Freshly
+Baked
+@2026
+```
+
+### Slide 24: Bunbon — brand identity
+
+Source PDF page: 24 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-24>) · [Read slide](<http://127.0.0.1:5188/read/#slide-24>) · [Original image](<http://127.0.0.1:5188/assets/slides/24.webp>)
+
+```text
+26
+Purple
+#7B60EF
+Warm Cream
+#FFF0D2
+@2026
+Purple
+#7B60EF
+Warm Cream
+#FFF0D2
+@2026
+```
+
+### Slide 25: Koko — brand identity
+
+Source PDF page: 25 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-25>) · [Read slide](<http://127.0.0.1:5188/read/#slide-25>) · [Original image](<http://127.0.0.1:5188/assets/slides/25.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 26: Mobile experiences · 01
+
+Source PDF page: 26 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-26>) · [Read slide](<http://127.0.0.1:5188/read/#slide-26>) · [Original image](<http://127.0.0.1:5188/assets/slides/26.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 27: Mobile experiences · 02
+
+Source PDF page: 27 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-27>) · [Read slide](<http://127.0.0.1:5188/read/#slide-27>) · [Original image](<http://127.0.0.1:5188/assets/slides/27.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 28: Mobile experiences · 03
+
+Source PDF page: 28 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-28>) · [Read slide](<http://127.0.0.1:5188/read/#slide-28>) · [Original image](<http://127.0.0.1:5188/assets/slides/28.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 29: Mobile experiences · 04
+
+Source PDF page: 29 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-29>) · [Read slide](<http://127.0.0.1:5188/read/#slide-29>) · [Original image](<http://127.0.0.1:5188/assets/slides/29.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 30: Product dashboards
+
+Source PDF page: 30 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-30>) · [Read slide](<http://127.0.0.1:5188/read/#slide-30>) · [Original image](<http://127.0.0.1:5188/assets/slides/30.webp>)
+
+```text
+Zentra
+Ask AI
+D
+MAIN MENU
+Overview
+Portfolio
+Markets
+Trade
+Analytics
+History
+FINANCE OPS
+Staking
+Yield Farming
+Automations
+Alerts
+Finish Setup
+Connect your wallet to start 
+tracking portfolio and earn rewards
+2 of 4
+Skip
+Next
+Help & Docs
+Settings
+Light Mode
+English (United States)
+Search coins, pairs & wallets...
+Traffic
+ROI
+Conversions
+Expenses
+CTR
+982
++15%
+473
+$884
+2.5%
++5%
++3%
++9%
+-2%
+-0.2%
+Market Trends
+Market Cap
+Volume
+BTC Price
+Tue, Aug 18 ‘26
+Market Cap
++8.35%
+BTC Price
++5.21%
+Volume
+$68.23B
+Tue, Aug 18 ‘26
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Transactions
+Buying Currency
+Sell Currency
+Transaction Status
+Pending Review
+5.31415 ETH/BTC
+5.31415 ETH/BTC
+14212.14 Market
+14212.14 Market
+80%
+Completed
+3.14159 LTC/ETH
+3.14159 LTC/ETH
+0.025 Market
+0.025 Market
+100%
+Not Started
+2.71828 BTC/USD
+2.71828 BTC/USD
+58000.50 Market
+58000.50 Market
+0%
+On Hold
+0.57721 ADA/USD
+0.57721 ADA/ETH
+1.20 Market
+0.00032 Market
+30%
+Delayed
+1.41421 DOGE/ETH
+1.41421 DOGE/USD
+0.00045 Market
+0.240 Market
+45%
+In Progress
+1.61803 XRP/BTC
+1.61803 XRP/BTC
+0.000023 Market
+0.000023 Market
+65%
+$39,551.76
+$7,960.11
+5.33%
+1.98%
+Unified Trading, 
+USD
+Funding, USD
+CPA
+Buy
+Sell
+Swap
+Convert
+$5.41 -0.34%
+Your send
+BTC
+0.1
+3M
+Your receive
+ETH
+20%
+~2.5938
+10%
+Convert
+0%
+Watchlist
+-10%
+Symbol
+Last
+Cha
+nge
+Change %
+BTC
+$96,183.23
+-6%
+-20%
++12%
+ETH
+$3,218.73
++12%
+-8%
+Oct
+SOL
+$3,218.73
++12%
+-8%
+BNB
+$236.21
++8%
++20%
+XRP
+$627.18
++8%
++12%
+ADA
+$1.12
++5%
++5%
+View More
+Registration with Zentra
+Sell Rate
+Open your crypto wallet app and scan the 
+QR code to register with Zentra.
+-6%
++12%
++8%
+-3%
++15%
++5%
+Activate QR
+If an error occurs scanning the QR code, 
+check your wallet app and try again.
+```
+
+### Slide 31: Web platforms
+
+Source PDF page: 31 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-31>) · [Read slide](<http://127.0.0.1:5188/read/#slide-31>) · [Original image](<http://127.0.0.1:5188/assets/slides/31.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 32: Product platforms
+
+Source PDF page: 32 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-32>) · [Read slide](<http://127.0.0.1:5188/read/#slide-32>) · [Original image](<http://127.0.0.1:5188/assets/slides/32.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 33: SaaS & enterprise platforms
+
+Source PDF page: 33 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-33>) · [Read slide](<http://127.0.0.1:5188/read/#slide-33>) · [Original image](<http://127.0.0.1:5188/assets/slides/33.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 34: Website design
+
+Source PDF page: 34 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-34>) · [Read slide](<http://127.0.0.1:5188/read/#slide-34>) · [Original image](<http://127.0.0.1:5188/assets/slides/34.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 35: Websites & digital experiences
+
+Source PDF page: 35 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-35>) · [Read slide](<http://127.0.0.1:5188/read/#slide-35>) · [Original image](<http://127.0.0.1:5188/assets/slides/35.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+### Slide 36: AI creative production
+
+Source PDF page: 36 · Text availability: visual-only
+
+[View slide](<http://127.0.0.1:5188/#slide-36>) · [Read slide](<http://127.0.0.1:5188/read/#slide-36>) · [Original image](<http://127.0.0.1:5188/assets/slides/36.webp>)
+
+Visual artwork only. No text was extracted from this slide. View the original image or PDF for its content.
+
+## Who we are
+
+### Slide 37: Our story
+
+Source PDF page: 38 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-37>) · [Read slide](<http://127.0.0.1:5188/read/#slide-37>) · [Original image](<http://127.0.0.1:5188/assets/slides/37.webp>)
+
+```text
+Product × Design × Growth
+Our
+Story
+Oribix Studio started with a simple belief: digital 
+products should bring clarity, not complexity. As 
+products grew, we saw brand, UX, and engineering 
+drifting apart. Today, we help teams bring them back 
+together to build products that scale.
+Orbix Studio
+```
+
+### Slide 38: Mission & vision
+
+Source PDF page: 39 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-38>) · [Read slide](<http://127.0.0.1:5188/read/#slide-38>) · [Original image](<http://127.0.0.1:5188/assets/slides/38.webp>)
+
+```text
+Product × Design × Growth
+Mission
+& Vision
+Mission
+TO DESIGN AND BUILD DIGITAL 
+PRODUCTS THAT SOLVE REAL 
+PROBLEMS, DELIVER LASTING VALUE, 
+AND HELP BUSINESSES GROW.
+Orbix Studio
+Vision
+TO BECOME A TRUSTED GLOBAL 
+PRODUCT PARTNER, HELPING 
+AMBITIOUS COMPANIES BUILD BETTER 
+SAAS, FINTECH, AND ENTERPRISE 
+PRODUCTS.
+```
+
+### Slide 39: Our core values
+
+Source PDF page: 40 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-39>) · [Read slide](<http://127.0.0.1:5188/read/#slide-39>) · [Original image](<http://127.0.0.1:5188/assets/slides/39.webp>)
+
+```text
+Product × Design × Growth
+Our Core
+Values
+Long-Term 
+Thinking
+Products built to adapt, grow, and stay 
+useful long after launch.
+Structure 
+Over Noise
+Clarity and systems over trends, visual 
+excess, or short-lived design patterns.
+Accountability
+Clear deliverables, shared ownership, 
+and transparent collaboration at 
+every stage.
+Orbix Studio
+Strategy Before 
+Execution
+Every decision is anchored in business 
+logic and measurable objectives.
+Continuous 
+Improvement
+Products get better through user 
+feedback, careful testing, and 
+ongoing refinement.
+```
+
+### Slide 40: Product-first philosophy
+
+Source PDF page: 41 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-40>) · [Read slide](<http://127.0.0.1:5188/read/#slide-40>) · [Original image](<http://127.0.0.1:5188/assets/slides/40.webp>)
+
+```text
+Product × Design × Growth
+Product-First 
+Philosophy
+Great products start with the right idea. We focus on what 
+matters to your users, simplify what doesn't, and turn your 
+vision into a product built to last.
+Orbix Studio
+```
+
+### Slide 41: Our team structure
+
+Source PDF page: 42 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-41>) · [Read slide](<http://127.0.0.1:5188/read/#slide-41>) · [Original image](<http://127.0.0.1:5188/assets/slides/41.webp>)
+
+```text
+Orbix Studio
+Product × Design × Growth
+Our Team 
+Structure
+Designers and developers work as one team, from the 
+first idea to the final build. This close collaboration 
+gives your product the space to grow, evolve, and 
+reach its full potential.
+```
+
+### Slide 42: Our product disciplines
+
+Source PDF page: 43 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-42>) · [Read slide](<http://127.0.0.1:5188/read/#slide-42>) · [Original image](<http://127.0.0.1:5188/assets/slides/42.webp>)
+
+```text
+Product × Design × Growth
+01
+Product
+Strategists
+04
+Frontend
+Engineers
+02
+UX
+Architects
+05
+Projects &
+Delivery
+03
+UI & Design
+System
+Orbix Studio
+```
+
+### Slide 43: Departments & capabilities
+
+Source PDF page: 44 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-43>) · [Read slide](<http://127.0.0.1:5188/read/#slide-43>) · [Original image](<http://127.0.0.1:5188/assets/slides/43.webp>)
+
+```text
+Product × Design × Growth
+Departments 
+& Capabilities
+Our structure is built around three core pillars that 
+keep strategy, design, and development aligned 
+across every engagement.
+Orbix Studio
+Strategy & Research
+Pilar 01
+Positioning, product strategy, UX research, 
+and architecture planning.
+Design & Systems
+Pilar 02
+Brand systems, UX frameworks, interface 
+design, and scalable component libraries.
+Development &
+Implementation
+Pilar 03
+Front-end collaboration, system documentation, 
+QA alignment, and performance optimization.
+```
+
+### Slide 44: Remote & global collaboration
+
+Source PDF page: 45 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-44>) · [Read slide](<http://127.0.0.1:5188/read/#slide-44>) · [Original image](<http://127.0.0.1:5188/assets/slides/44.webp>)
+
+```text
+Product × Design × Growth
+Remote & Global 
+Collaboration Model
+Orbix Studio brings designers and developers together from around the world to build better digital products 
+through clear communication and close collaboration, turning bold ideas into meaningful experiences that 
+create lasting business value.
+Orbix Studio
+```
+
+## Engagement & investment
+
+### Slide 45: How we structure engagements
+
+Source PDF page: 46 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-45>) · [Read slide](<http://127.0.0.1:5188/read/#slide-45>) · [Original image](<http://127.0.0.1:5188/assets/slides/45.webp>)
+
+```text
+Orbix Studio
+Product × Design × Growth
+How We Structure 
+Engagements
+Every engagement at Orbix Studio begins with clear objectives, defined scope, and aligned 
+teams. This keeps the work focused, accountable, and moving forward from the start.
+Clear Objectives & KPIs
+Defined Scope Boundaries
+Milestone-Based Delivery
+Executive Reporting Cadence
+Governance & Approval Gates
+```
+
+### Slide 46: Ongoing product growth
+
+Source PDF page: 47 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-46>) · [Read slide](<http://127.0.0.1:5188/read/#slide-46>) · [Original image](<http://127.0.0.1:5188/assets/slides/46.webp>)
+
+```text
+Orbix Studio
+Product × Design × Growth
+Retainer Model for 
+Ongoing Product 
+Growth
+As your product evolves, We stay by your side to 
+improve existing features, build new ones, and keep 
+your product aligned with changing user needs.
+```
+
+### Slide 47: Product launch program
+
+Source PDF page: 48 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-47>) · [Read slide](<http://127.0.0.1:5188/read/#slide-47>) · [Original image](<http://127.0.0.1:5188/assets/slides/47.webp>)
+
+```text
+Product × Design × Growth
+Product 
+Launch 
+Program
+01
+02
+Our product launch program helps startups and 
+enterprises reduce risk and prepare brand, product, 
+and performance for release or relaunch.
+03
+Orbix Studio
+Foundation
+Positioning, product strategy, UX research, 
+and architecture planning.
+Build
+Brand systems, UX frameworks, interface 
+design, and scalable component libraries.
+Launch
+Front-end collaboration, system documentation, 
+QA alignment, and performance optimization.
+```
+
+### Slide 48: Our collaboration framework
+
+Source PDF page: 49 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-48>) · [Read slide](<http://127.0.0.1:5188/read/#slide-48>) · [Original image](<http://127.0.0.1:5188/assets/slides/48.webp>)
+
+```text
+Product × Design × Growth
+Our 
+Collaboration 
+Framework
+Orbix Studio helps startups and enterprises reduce 
+risk and prepare brand, product, and performance for 
+release or relaunch.
+       Executive 
+kickoff alignment:
+01
+       Defined 
+stakeholder roles:
+02
+       Weekly 
+sprint reviews:
+03
+        Milestone reporting and 
+documentation transparency:
+04
+Orbix Studio
+Objectives, roles, and success 
+criteria defined before work begins.
+Clear ownership across client and 
+Orbix teams with no ambiguity.
+Progress updates with documented 
+outcomes and next steps.
+Clear progress, documented 
+decisions, and milestone visibility.
+```
+
+### Slide 49: Average project timelines
+
+Source PDF page: 50 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-49>) · [Read slide](<http://127.0.0.1:5188/read/#slide-49>) · [Original image](<http://127.0.0.1:5188/assets/slides/49.webp>)
+
+```text
+Product × Design × Growth
+Average
+ P
+roject 
+Timelines
+Project timelines depend on the scope, 
+complexity, and feedback involved. These 
+estimates cover the full process, from initial 
+research and design to development handoff.
+Brand Strategy
+Marketing Website 
+(Design & Build)
+SaaS Product Design
+Enterprise 
+Dashboard Systems
+Design System 
+Development
+Orbix Studio
+4–8 weeks
+6–16 weeks
+8–24 weeks
+12–32 weeks
+6–12 weeks
+```
+
+### Slide 50: Investment ranges
+
+Source PDF page: 51 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-50>) · [Read slide](<http://127.0.0.1:5188/read/#slide-50>) · [Original image](<http://127.0.0.1:5188/assets/slides/50.webp>)
+
+```text
+Product × Design × Growth
+Investment 
+Ranges
+Project pricing varies based on scope, complexity, 
+and product requirements. The ranges below 
+reflect common engagement ranges.
+Brand Systems
+Marketing Website 
+(Design & Development)
+SaaS Product Design
+Enterprise Product 
+Systems
+Retainer 
+Partnerships
+Orbix Studio
+$15K – $50K
+$25K – $80K
+$30K – $120K
+Custom Scoping
+Custom Monthly Structure
+```
+
+### Slide 51: What sets us apart
+
+Source PDF page: 52 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-51>) · [Read slide](<http://127.0.0.1:5188/read/#slide-51>) · [Original image](<http://127.0.0.1:5188/assets/slides/51.webp>)
+
+```text
+Product × Design × Growth
+01
+What Sets 
+Us Apart
+02
+03
+04
+We combine thoughtful design, 
+technical expertise, and business 
+goals to build products that solve real 
+problems, deliver measurable results, 
+and grow with your business.
+05
+Orbix Studio
+Full-Cycle 
+Integration
+Brand, UX, and product 
+built as one system.
+System-First 
+Thinking
+Scalable systems 
+designed for growth.
+Executive-Level 
+Alignment
+Clear communication 
+and faster decisions.
+Measurable 
+Impact
+Focused on 
+performance and real 
+outcomes.
+Long-Term 
+Partnership Mindset
+Ongoing support 
+beyond launch.
+```
+
+### Slide 52: Let’s build what matters
+
+Source PDF page: 53 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-52>) · [Read slide](<http://127.0.0.1:5188/read/#slide-52>) · [Original image](<http://127.0.0.1:5188/assets/slides/52.webp>)
+
+```text
+Product × Design × Growth
+What Matters
+Let’s Build
+Orbix Studio partners with organizations that take their digital 
+infrastructure seriously.
+Orbix Studio
+```
+
+### Slide 53: Service pricing ranges
+
+Source PDF page: 54 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-53>) · [Read slide](<http://127.0.0.1:5188/read/#slide-53>) · [Original image](<http://127.0.0.1:5188/assets/slides/53.webp>)
+
+```text
+Product × Design × Growth
+Service Pricing 
+Ranges
+Every project is different. Our pricing 
+ranges reflect the work involved, from 
+focused design projects to complete 
+product development.
+R
+a
+n
+g
+e
+Orbix Studio
+```
+
+### Slide 54: Strategy & brand pricing
+
+Source PDF page: 55 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-54>) · [Read slide](<http://127.0.0.1:5188/read/#slide-54>) · [Original image](<http://127.0.0.1:5188/assets/slides/54.webp>)
+
+```text
+Orbix Studio
+Product × Design × Growth
+Strategy & 
+Research
+Product Strategy & Positioning
+UX Research & Architecture
+Product Audit & Optimization
+$15K – $40K
+$12K – $35K
+Custom Scope
+Visual Identity Systems
+$20K – $60K
+$15K – $45K
+$40K+
+Brand Strategy
+Brand 
+Systems
+Full Brand & Product 
+Alignment Program
+```
+
+### Slide 55: Design & development pricing
+
+Source PDF page: 56 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-55>) · [Read slide](<http://127.0.0.1:5188/read/#slide-55>) · [Original image](<http://127.0.0.1:5188/assets/slides/55.webp>)
+
+```text
+Product × Design × Growth
+UX & Interface 
+Design
+Development 
+Support
+Orbix Studio
+SaaS Product Design (MVP)
+Enterprise Product Systems
+Design System Development
+$18K – $50K
+$30K – $90K
+$60K – $150K+
+$20K – $55K
+Marketing Website Design
+CMS & Website Development
+$25K – $120K
+$20K – $70K
+Custom Scope
+Frontend Implementation 
+(Product)
+CMS & Website Development
+```
+
+### Slide 56: How we work
+
+Source PDF page: 57 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-56>) · [Read slide](<http://127.0.0.1:5188/read/#slide-56>) · [Original image](<http://127.0.0.1:5188/assets/slides/56.webp>)
+
+```text
+Product × Design × Growth
+Average Hourly Rate
+$50  – $99 / hour
+Depending on specialization and scope
+How We Work
+Every engagement starts with your goals, scope, and priorities. 
+We focus on delivering meaningful results, building products that 
+can grow, and making the most of your investment.
+
+
+
+Orbix Studio
+```
+
+## Next steps
+
+### Slide 57: Contact & next steps
+
+Source PDF page: 58 · Text availability: extracted
+
+[View slide](<http://127.0.0.1:5188/#slide-57>) · [Read slide](<http://127.0.0.1:5188/read/#slide-57>) · [Original image](<http://127.0.0.1:5188/assets/slides/57.webp>)
+
+```text
+Orbix Studio
+Product × Design × Growth
+Contact & 
+Next Steps
+Let’s talk About Your Product
+Start with a discovery call to align on your goals, 
+challenges, and next steps.
+Step 01
+Step 02
+Step 03
+Alignment Call
+Goals, priorities, and current state.
+Scope & Proposal
+Deliverables, timeline, and investment.
+Roadmap & Kickoff
+Plan, team alignment, and project launch.
+Have a project in mind?
+hello@orbix.studio
+Orbix Studio
+Let’s Build What’s Next.
+Prefer to talk?
++1 (646) 598-7983
+```

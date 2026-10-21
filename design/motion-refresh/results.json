@@ -1,0 +1,1308 @@
+[
+  {
+    "slide": 1,
+    "paintedLayers": [
+      {
+        "src": "/assets/motion/01/text-01.webp",
+        "painted": 67517
+      },
+      {
+        "src": "/assets/motion/01/text-02.webp",
+        "painted": 53793
+      },
+      {
+        "src": "/assets/motion/01/text-03.webp",
+        "painted": 59110
+      },
+      {
+        "src": "/assets/motion/01/text-04.webp",
+        "painted": 1969
+      },
+      {
+        "src": "/assets/motion/01/text-05.webp",
+        "painted": 2926
+      },
+      {
+        "src": "/assets/motion/01/text-06.webp",
+        "painted": 8027
+      },
+      {
+        "src": "/assets/motion/01/text-07.webp",
+        "painted": 7453
+      },
+      {
+        "src": "/assets/motion/01/text-08.webp",
+        "painted": 3504
+      }
+    ],
+    "start": {
+      "composition": "motion-artwork composition-cover is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "0.45",
+      "transform": "matrix(0.99, 0, 0, 0.99, 18, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(1.06477, -0.0223037, 0.0223037, 1.06477, 0, 37.0555)",
+          "animation": "cover-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.1s",
+          "duration": "1.15s, 1.05s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(1.06477, -0.0223037, 0.0223037, 1.06477, 0, 37.0555)",
+          "animation": "cover-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.2s",
+          "duration": "1.15s, 1.05s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(1.06477, -0.0223037, 0.0223037, 1.06477, 0, 37.0555)",
+          "animation": "cover-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.3s",
+          "duration": "1.15s, 1.05s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.345s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.41s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.475s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, -7)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        }
+      ]
+    },
+    "settled": {
+      "composition": "motion-artwork composition-cover is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "cover-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.1s",
+          "duration": "1.15s, 1.05s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "cover-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.2s",
+          "duration": "1.15s, 1.05s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "cover-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.3s",
+          "duration": "1.15s, 1.05s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.345s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.41s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.475s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        }
+      ]
+    }
+  },
+  {
+    "slide": 6,
+    "paintedLayers": [
+      {
+        "src": "/assets/motion/06/text-01.webp",
+        "painted": 36441
+      },
+      {
+        "src": "/assets/motion/06/text-02.webp",
+        "painted": 73898
+      },
+      {
+        "src": "/assets/motion/06/text-03.webp",
+        "painted": 33933
+      },
+      {
+        "src": "/assets/motion/06/text-04.webp",
+        "painted": 3057
+      },
+      {
+        "src": "/assets/motion/06/text-05.webp",
+        "painted": 1750
+      },
+      {
+        "src": "/assets/motion/06/text-06.webp",
+        "painted": 3504
+      },
+      {
+        "src": "/assets/motion/06/text-07.webp",
+        "painted": 1672
+      },
+      {
+        "src": "/assets/motion/06/text-08.webp",
+        "painted": 1810
+      },
+      {
+        "src": "/assets/motion/06/text-09.webp",
+        "painted": 1481
+      }
+    ],
+    "start": {
+      "composition": "motion-artwork composition-statement is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "0.45",
+      "transform": "matrix(0.99, 0, 0, 0.99, 18, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(1.035, 0, 0, 1.035, 0, 29.6444)",
+          "animation": "statement-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.1s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(1.035, 0, 0, 1.035, 0, 29.6444)",
+          "animation": "statement-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.2s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(1.035, 0, 0, 1.035, 0, 29.6444)",
+          "animation": "statement-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.3s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.345s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, -7)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, -7)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.055s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-footer",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, 10)",
+          "animation": "footer-arrive",
+          "clip": "none",
+          "delay": "0.46s",
+          "duration": "0.65s"
+        },
+        {
+          "role": "motion-text motion-text-footer",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, 10)",
+          "animation": "footer-arrive",
+          "clip": "none",
+          "delay": "0.505s",
+          "duration": "0.65s"
+        }
+      ]
+    },
+    "settled": {
+      "composition": "motion-artwork composition-statement is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "statement-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.1s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "statement-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.2s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "statement-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.3s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.345s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.055s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-footer",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "footer-arrive",
+          "clip": "none",
+          "delay": "0.46s",
+          "duration": "0.65s"
+        },
+        {
+          "role": "motion-text motion-text-footer",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "footer-arrive",
+          "clip": "none",
+          "delay": "0.505s",
+          "duration": "0.65s"
+        }
+      ]
+    }
+  },
+  {
+    "slide": 13,
+    "paintedLayers": [
+      {
+        "src": "/assets/motion/13/text-01.webp",
+        "painted": 59880
+      },
+      {
+        "src": "/assets/motion/13/text-02.webp",
+        "painted": 34111
+      },
+      {
+        "src": "/assets/motion/13/text-03.webp",
+        "painted": 689
+      },
+      {
+        "src": "/assets/motion/13/text-04.webp",
+        "painted": 12590
+      },
+      {
+        "src": "/assets/motion/13/text-05.webp",
+        "painted": 3807
+      },
+      {
+        "src": "/assets/motion/13/text-06.webp",
+        "painted": 5233
+      },
+      {
+        "src": "/assets/motion/13/text-07.webp",
+        "painted": 1221
+      }
+    ],
+    "start": {
+      "composition": "motion-artwork composition-editorial is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "0.45",
+      "transform": "matrix(0.99, 0, 0, 0.99, 18, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(0.965, 0, 0, 0.965, 0, 29.6444)",
+          "animation": "headline-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.1s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.345s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.41s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.475s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, -7)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-footer",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, 10)",
+          "animation": "footer-arrive",
+          "clip": "none",
+          "delay": "0.46s",
+          "duration": "0.65s"
+        }
+      ]
+    },
+    "settled": {
+      "composition": "motion-artwork composition-editorial is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "headline-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.1s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.345s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.41s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.475s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-footer",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "footer-arrive",
+          "clip": "none",
+          "delay": "0.46s",
+          "duration": "0.65s"
+        }
+      ]
+    }
+  },
+  {
+    "slide": 25,
+    "paintedLayers": [],
+    "start": {
+      "composition": "motion-artwork composition-showcase is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "0.45",
+      "transform": "matrix(0.99, 0, 0, 0.99, 18, 0)",
+      "images": [
+        {
+          "role": "motion-original",
+          "opacity": "0.15",
+          "transform": "matrix(1.045, 0, 0, 1.045, 12.6, 0)",
+          "animation": "showcase-reveal",
+          "clip": "inset(0px 0px 12%)",
+          "delay": "0s",
+          "duration": "1.2s"
+        }
+      ]
+    },
+    "settled": {
+      "composition": "motion-artwork composition-showcase is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "images": [
+        {
+          "role": "motion-original",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "showcase-reveal",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0s",
+          "duration": "1.2s"
+        }
+      ]
+    }
+  },
+  {
+    "slide": 41,
+    "paintedLayers": [
+      {
+        "src": "/assets/motion/41/text-01.webp",
+        "painted": 70158
+      },
+      {
+        "src": "/assets/motion/41/text-02.webp",
+        "painted": 23418
+      },
+      {
+        "src": "/assets/motion/41/text-03.webp",
+        "painted": 5176
+      }
+    ],
+    "start": {
+      "composition": "motion-artwork composition-editorial is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "0.45",
+      "transform": "matrix(0.99, 0, 0, 0.99, 18, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(0.965, 0, 0, 0.965, 0, 29.6444)",
+          "animation": "headline-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.1s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, -7)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        }
+      ]
+    },
+    "settled": {
+      "composition": "motion-artwork composition-editorial is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "headline-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.1s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        }
+      ]
+    }
+  },
+  {
+    "slide": 42,
+    "paintedLayers": [
+      {
+        "src": "/assets/motion/42/text-01.webp",
+        "painted": 11760
+      },
+      {
+        "src": "/assets/motion/42/text-02.webp",
+        "painted": 8049
+      },
+      {
+        "src": "/assets/motion/42/text-03.webp",
+        "painted": 379
+      },
+      {
+        "src": "/assets/motion/42/text-04.webp",
+        "painted": 11273
+      },
+      {
+        "src": "/assets/motion/42/text-05.webp",
+        "painted": 355
+      },
+      {
+        "src": "/assets/motion/42/text-06.webp",
+        "painted": 380
+      },
+      {
+        "src": "/assets/motion/42/text-07.webp",
+        "painted": 11241
+      },
+      {
+        "src": "/assets/motion/42/text-08.webp",
+        "painted": 10687
+      },
+      {
+        "src": "/assets/motion/42/text-09.webp",
+        "painted": 3504
+      },
+      {
+        "src": "/assets/motion/42/text-10.webp",
+        "painted": 1672
+      }
+    ],
+    "start": {
+      "composition": "motion-artwork composition-cards is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "0.45",
+      "transform": "matrix(0.99, 0, 0, 0.99, 18, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(0.975, 0, 0, 0.975, 0, 19.2688)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.245174s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(0.975, 0, 0, 0.975, 0, 19.2688)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.273663s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(0.975, 0, 0, 0.975, 0, 19.2688)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.303299s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(0.975, 0, 0, 0.975, 0, 19.2688)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.343676s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(0.975, 0, 0, 0.975, 0, 19.2688)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.362431s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(0.975, 0, 0, 0.975, 0, 19.2688)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.39092s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(0.975, 0, 0, 0.975, 0, 19.2688)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.402651s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(0.975, 0, 0, 0.975, 0, 19.2688)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.431141s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, -7)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, -7)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.055s",
+          "duration": "0.6s"
+        }
+      ]
+    },
+    "settled": {
+      "composition": "motion-artwork composition-cards is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.245174s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.273663s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.303299s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.343676s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.362431s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.39092s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.402651s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "card-arrive",
+          "clip": "none",
+          "delay": "0.431141s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.055s",
+          "duration": "0.6s"
+        }
+      ]
+    }
+  },
+  {
+    "slide": 57,
+    "paintedLayers": [
+      {
+        "src": "/assets/motion/57/text-01.webp",
+        "painted": 42462
+      },
+      {
+        "src": "/assets/motion/57/text-02.webp",
+        "painted": 28084
+      },
+      {
+        "src": "/assets/motion/57/text-03.webp",
+        "painted": 12985
+      },
+      {
+        "src": "/assets/motion/57/text-04.webp",
+        "painted": 2421
+      },
+      {
+        "src": "/assets/motion/57/text-05.webp",
+        "painted": 15458
+      },
+      {
+        "src": "/assets/motion/57/text-06.webp",
+        "painted": 16798
+      },
+      {
+        "src": "/assets/motion/57/text-07.webp",
+        "painted": 23502
+      },
+      {
+        "src": "/assets/motion/57/text-08.webp",
+        "painted": 8371
+      },
+      {
+        "src": "/assets/motion/57/text-09.webp",
+        "painted": 5176
+      },
+      {
+        "src": "/assets/motion/57/text-10.webp",
+        "painted": 6210
+      }
+    ],
+    "start": {
+      "composition": "motion-artwork composition-editorial is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "0.45",
+      "transform": "matrix(0.99, 0, 0, 0.99, 18, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1.045, 0, 0, 1.045, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(0.965, 0, 0, 0.965, 0, 29.6444)",
+          "animation": "headline-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.1s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.345s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.41s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.475s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.54s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "0",
+          "transform": "matrix(0.965, 0, 0, 0.965, 0, 29.6444)",
+          "animation": "headline-reveal, headline-mask",
+          "clip": "inset(0px 0px 100%)",
+          "delay": "0.2s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, -18.5277, 12)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.605s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, -7)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-footer",
+          "opacity": "0",
+          "transform": "matrix(1, 0, 0, 1, 0, 10)",
+          "animation": "footer-arrive",
+          "clip": "none",
+          "delay": "0.46s",
+          "duration": "0.65s"
+        }
+      ]
+    },
+    "settled": {
+      "composition": "motion-artwork composition-editorial is-ready motion-enabled",
+      "direction": "forward",
+      "opacity": "1",
+      "transform": "matrix(1, 0, 0, 1, 0, 0)",
+      "images": [
+        {
+          "role": "motion-background",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "background-focus",
+          "clip": "none",
+          "delay": "0s",
+          "duration": "2.6s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "headline-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.1s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.28s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.345s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.41s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.475s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.54s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-heading",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "headline-reveal, headline-mask",
+          "clip": "inset(0px 0px 0%)",
+          "delay": "0.2s",
+          "duration": "1.05s, 1s"
+        },
+        {
+          "role": "motion-text motion-text-body",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "copy-arrive",
+          "clip": "none",
+          "delay": "0.605s",
+          "duration": "0.85s"
+        },
+        {
+          "role": "motion-text motion-text-label",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "masthead-arrive",
+          "clip": "none",
+          "delay": "0.02s",
+          "duration": "0.6s"
+        },
+        {
+          "role": "motion-text motion-text-footer",
+          "opacity": "1",
+          "transform": "matrix(1, 0, 0, 1, 0, 0)",
+          "animation": "footer-arrive",
+          "clip": "none",
+          "delay": "0.46s",
+          "duration": "0.65s"
+        }
+      ]
+    }
+  }
+]

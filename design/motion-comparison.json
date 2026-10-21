@@ -1,0 +1,2055 @@
+{
+  "comparison": "Native PDF versus settled background and separated visible text at 2400 x 1350; every layer has painted pixels and removed background ink",
+  "slides": [
+    {
+      "id": 1,
+      "layers": 8,
+      "meanRgbError": 0.0537,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/01/text-01.webp",
+          "paintedPixels": 66849,
+          "backgroundInkChangedPixels": 66849
+        },
+        {
+          "src": "/assets/motion/01/text-02.webp",
+          "paintedPixels": 53108,
+          "backgroundInkChangedPixels": 53108
+        },
+        {
+          "src": "/assets/motion/01/text-03.webp",
+          "paintedPixels": 59110,
+          "backgroundInkChangedPixels": 58762
+        },
+        {
+          "src": "/assets/motion/01/text-04.webp",
+          "paintedPixels": 1849,
+          "backgroundInkChangedPixels": 1849
+        },
+        {
+          "src": "/assets/motion/01/text-05.webp",
+          "paintedPixels": 2725,
+          "backgroundInkChangedPixels": 2725
+        },
+        {
+          "src": "/assets/motion/01/text-06.webp",
+          "paintedPixels": 7712,
+          "backgroundInkChangedPixels": 7712
+        },
+        {
+          "src": "/assets/motion/01/text-07.webp",
+          "paintedPixels": 7139,
+          "backgroundInkChangedPixels": 7139
+        },
+        {
+          "src": "/assets/motion/01/text-08.webp",
+          "paintedPixels": 3263,
+          "backgroundInkChangedPixels": 3263
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "layers": 6,
+      "meanRgbError": 0.7165,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/02/text-01.webp",
+          "paintedPixels": 21667,
+          "backgroundInkChangedPixels": 21657
+        },
+        {
+          "src": "/assets/motion/02/text-02.webp",
+          "paintedPixels": 8318,
+          "backgroundInkChangedPixels": 8318
+        },
+        {
+          "src": "/assets/motion/02/text-03.webp",
+          "paintedPixels": 4144,
+          "backgroundInkChangedPixels": 4144
+        },
+        {
+          "src": "/assets/motion/02/text-04.webp",
+          "paintedPixels": 17212,
+          "backgroundInkChangedPixels": 17199
+        },
+        {
+          "src": "/assets/motion/02/text-05.webp",
+          "paintedPixels": 20964,
+          "backgroundInkChangedPixels": 20780
+        },
+        {
+          "src": "/assets/motion/02/text-06.webp",
+          "paintedPixels": 3263,
+          "backgroundInkChangedPixels": 3263
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "layers": 10,
+      "meanRgbError": 0.6075,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/03/text-01.webp",
+          "paintedPixels": 19550,
+          "backgroundInkChangedPixels": 19550
+        },
+        {
+          "src": "/assets/motion/03/text-02.webp",
+          "paintedPixels": 8588,
+          "backgroundInkChangedPixels": 8588
+        },
+        {
+          "src": "/assets/motion/03/text-03.webp",
+          "paintedPixels": 48540,
+          "backgroundInkChangedPixels": 48538
+        },
+        {
+          "src": "/assets/motion/03/text-04.webp",
+          "paintedPixels": 11294,
+          "backgroundInkChangedPixels": 11294
+        },
+        {
+          "src": "/assets/motion/03/text-05.webp",
+          "paintedPixels": 11898,
+          "backgroundInkChangedPixels": 11898
+        },
+        {
+          "src": "/assets/motion/03/text-06.webp",
+          "paintedPixels": 53091,
+          "backgroundInkChangedPixels": 53014
+        },
+        {
+          "src": "/assets/motion/03/text-07.webp",
+          "paintedPixels": 2630,
+          "backgroundInkChangedPixels": 2630
+        },
+        {
+          "src": "/assets/motion/03/text-08.webp",
+          "paintedPixels": 15143,
+          "backgroundInkChangedPixels": 15141
+        },
+        {
+          "src": "/assets/motion/03/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/03/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "layers": 10,
+      "meanRgbError": 0.2049,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/04/text-01.webp",
+          "paintedPixels": 59847,
+          "backgroundInkChangedPixels": 59847
+        },
+        {
+          "src": "/assets/motion/04/text-02.webp",
+          "paintedPixels": 4669,
+          "backgroundInkChangedPixels": 4669
+        },
+        {
+          "src": "/assets/motion/04/text-03.webp",
+          "paintedPixels": 4913,
+          "backgroundInkChangedPixels": 4913
+        },
+        {
+          "src": "/assets/motion/04/text-04.webp",
+          "paintedPixels": 4855,
+          "backgroundInkChangedPixels": 4855
+        },
+        {
+          "src": "/assets/motion/04/text-05.webp",
+          "paintedPixels": 33626,
+          "backgroundInkChangedPixels": 33626
+        },
+        {
+          "src": "/assets/motion/04/text-06.webp",
+          "paintedPixels": 5548,
+          "backgroundInkChangedPixels": 5548
+        },
+        {
+          "src": "/assets/motion/04/text-07.webp",
+          "paintedPixels": 4773,
+          "backgroundInkChangedPixels": 4773
+        },
+        {
+          "src": "/assets/motion/04/text-08.webp",
+          "paintedPixels": 2184,
+          "backgroundInkChangedPixels": 2184
+        },
+        {
+          "src": "/assets/motion/04/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/04/text-10.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "layers": 10,
+      "meanRgbError": 0.3436,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/05/text-01.webp",
+          "paintedPixels": 49612,
+          "backgroundInkChangedPixels": 49612
+        },
+        {
+          "src": "/assets/motion/05/text-02.webp",
+          "paintedPixels": 22014,
+          "backgroundInkChangedPixels": 22014
+        },
+        {
+          "src": "/assets/motion/05/text-03.webp",
+          "paintedPixels": 7224,
+          "backgroundInkChangedPixels": 7224
+        },
+        {
+          "src": "/assets/motion/05/text-04.webp",
+          "paintedPixels": 8002,
+          "backgroundInkChangedPixels": 7992
+        },
+        {
+          "src": "/assets/motion/05/text-05.webp",
+          "paintedPixels": 7435,
+          "backgroundInkChangedPixels": 7435
+        },
+        {
+          "src": "/assets/motion/05/text-06.webp",
+          "paintedPixels": 5825,
+          "backgroundInkChangedPixels": 5825
+        },
+        {
+          "src": "/assets/motion/05/text-07.webp",
+          "paintedPixels": 6825,
+          "backgroundInkChangedPixels": 6825
+        },
+        {
+          "src": "/assets/motion/05/text-08.webp",
+          "paintedPixels": 7481,
+          "backgroundInkChangedPixels": 7440
+        },
+        {
+          "src": "/assets/motion/05/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/05/text-10.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "layers": 9,
+      "meanRgbError": 0.0977,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/06/text-01.webp",
+          "paintedPixels": 35521,
+          "backgroundInkChangedPixels": 35521
+        },
+        {
+          "src": "/assets/motion/06/text-02.webp",
+          "paintedPixels": 72036,
+          "backgroundInkChangedPixels": 72036
+        },
+        {
+          "src": "/assets/motion/06/text-03.webp",
+          "paintedPixels": 33221,
+          "backgroundInkChangedPixels": 33221
+        },
+        {
+          "src": "/assets/motion/06/text-04.webp",
+          "paintedPixels": 2817,
+          "backgroundInkChangedPixels": 2817
+        },
+        {
+          "src": "/assets/motion/06/text-05.webp",
+          "paintedPixels": 1627,
+          "backgroundInkChangedPixels": 1627
+        },
+        {
+          "src": "/assets/motion/06/text-06.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/06/text-07.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        },
+        {
+          "src": "/assets/motion/06/text-08.webp",
+          "paintedPixels": 1619,
+          "backgroundInkChangedPixels": 1619
+        },
+        {
+          "src": "/assets/motion/06/text-09.webp",
+          "paintedPixels": 1369,
+          "backgroundInkChangedPixels": 1369
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "layers": 10,
+      "meanRgbError": 0.4608,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/07/text-01.webp",
+          "paintedPixels": 58850,
+          "backgroundInkChangedPixels": 58850
+        },
+        {
+          "src": "/assets/motion/07/text-02.webp",
+          "paintedPixels": 4696,
+          "backgroundInkChangedPixels": 4690
+        },
+        {
+          "src": "/assets/motion/07/text-03.webp",
+          "paintedPixels": 40015,
+          "backgroundInkChangedPixels": 39975
+        },
+        {
+          "src": "/assets/motion/07/text-04.webp",
+          "paintedPixels": 7765,
+          "backgroundInkChangedPixels": 7728
+        },
+        {
+          "src": "/assets/motion/07/text-05.webp",
+          "paintedPixels": 11556,
+          "backgroundInkChangedPixels": 11556
+        },
+        {
+          "src": "/assets/motion/07/text-06.webp",
+          "paintedPixels": 28569,
+          "backgroundInkChangedPixels": 28569
+        },
+        {
+          "src": "/assets/motion/07/text-07.webp",
+          "paintedPixels": 3155,
+          "backgroundInkChangedPixels": 3155
+        },
+        {
+          "src": "/assets/motion/07/text-08.webp",
+          "paintedPixels": 6905,
+          "backgroundInkChangedPixels": 6905
+        },
+        {
+          "src": "/assets/motion/07/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/07/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "layers": 8,
+      "meanRgbError": 0.4259,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/08/text-01.webp",
+          "paintedPixels": 63987,
+          "backgroundInkChangedPixels": 63927
+        },
+        {
+          "src": "/assets/motion/08/text-02.webp",
+          "paintedPixels": 16012,
+          "backgroundInkChangedPixels": 16012
+        },
+        {
+          "src": "/assets/motion/08/text-03.webp",
+          "paintedPixels": 11628,
+          "backgroundInkChangedPixels": 11628
+        },
+        {
+          "src": "/assets/motion/08/text-04.webp",
+          "paintedPixels": 8607,
+          "backgroundInkChangedPixels": 8607
+        },
+        {
+          "src": "/assets/motion/08/text-05.webp",
+          "paintedPixels": 11793,
+          "backgroundInkChangedPixels": 11779
+        },
+        {
+          "src": "/assets/motion/08/text-06.webp",
+          "paintedPixels": 10505,
+          "backgroundInkChangedPixels": 10505
+        },
+        {
+          "src": "/assets/motion/08/text-07.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/08/text-08.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "layers": 7,
+      "meanRgbError": 0.3986,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/09/text-01.webp",
+          "paintedPixels": 44859,
+          "backgroundInkChangedPixels": 44859
+        },
+        {
+          "src": "/assets/motion/09/text-02.webp",
+          "paintedPixels": 3311,
+          "backgroundInkChangedPixels": 3311
+        },
+        {
+          "src": "/assets/motion/09/text-03.webp",
+          "paintedPixels": 24454,
+          "backgroundInkChangedPixels": 24454
+        },
+        {
+          "src": "/assets/motion/09/text-04.webp",
+          "paintedPixels": 4553,
+          "backgroundInkChangedPixels": 4553
+        },
+        {
+          "src": "/assets/motion/09/text-05.webp",
+          "paintedPixels": 37619,
+          "backgroundInkChangedPixels": 37619
+        },
+        {
+          "src": "/assets/motion/09/text-06.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/09/text-07.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "layers": 6,
+      "meanRgbError": 0.2289,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/10/text-01.webp",
+          "paintedPixels": 43876,
+          "backgroundInkChangedPixels": 43876
+        },
+        {
+          "src": "/assets/motion/10/text-02.webp",
+          "paintedPixels": 38189,
+          "backgroundInkChangedPixels": 38189
+        },
+        {
+          "src": "/assets/motion/10/text-03.webp",
+          "paintedPixels": 36866,
+          "backgroundInkChangedPixels": 36866
+        },
+        {
+          "src": "/assets/motion/10/text-04.webp",
+          "paintedPixels": 6353,
+          "backgroundInkChangedPixels": 6353
+        },
+        {
+          "src": "/assets/motion/10/text-05.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/10/text-06.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "layers": 4,
+      "meanRgbError": 0.6178,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/11/text-01.webp",
+          "paintedPixels": 60955,
+          "backgroundInkChangedPixels": 60955
+        },
+        {
+          "src": "/assets/motion/11/text-02.webp",
+          "paintedPixels": 39484,
+          "backgroundInkChangedPixels": 39484
+        },
+        {
+          "src": "/assets/motion/11/text-03.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/11/text-04.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "layers": 8,
+      "meanRgbError": 0.2604,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/12/text-01.webp",
+          "paintedPixels": 64825,
+          "backgroundInkChangedPixels": 64825
+        },
+        {
+          "src": "/assets/motion/12/text-02.webp",
+          "paintedPixels": 35799,
+          "backgroundInkChangedPixels": 35799
+        },
+        {
+          "src": "/assets/motion/12/text-03.webp",
+          "paintedPixels": 1130,
+          "backgroundInkChangedPixels": 1130
+        },
+        {
+          "src": "/assets/motion/12/text-04.webp",
+          "paintedPixels": 5848,
+          "backgroundInkChangedPixels": 5637
+        },
+        {
+          "src": "/assets/motion/12/text-05.webp",
+          "paintedPixels": 3067,
+          "backgroundInkChangedPixels": 3067
+        },
+        {
+          "src": "/assets/motion/12/text-06.webp",
+          "paintedPixels": 198,
+          "backgroundInkChangedPixels": 198
+        },
+        {
+          "src": "/assets/motion/12/text-07.webp",
+          "paintedPixels": 20953,
+          "backgroundInkChangedPixels": 20801
+        },
+        {
+          "src": "/assets/motion/12/text-08.webp",
+          "paintedPixels": 4811,
+          "backgroundInkChangedPixels": 4811
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "layers": 7,
+      "meanRgbError": 0.4064,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/13/text-01.webp",
+          "paintedPixels": 59119,
+          "backgroundInkChangedPixels": 59119
+        },
+        {
+          "src": "/assets/motion/13/text-02.webp",
+          "paintedPixels": 31917,
+          "backgroundInkChangedPixels": 31917
+        },
+        {
+          "src": "/assets/motion/13/text-03.webp",
+          "paintedPixels": 612,
+          "backgroundInkChangedPixels": 612
+        },
+        {
+          "src": "/assets/motion/13/text-04.webp",
+          "paintedPixels": 11444,
+          "backgroundInkChangedPixels": 10904
+        },
+        {
+          "src": "/assets/motion/13/text-05.webp",
+          "paintedPixels": 3448,
+          "backgroundInkChangedPixels": 3448
+        },
+        {
+          "src": "/assets/motion/13/text-06.webp",
+          "paintedPixels": 4811,
+          "backgroundInkChangedPixels": 4811
+        },
+        {
+          "src": "/assets/motion/13/text-07.webp",
+          "paintedPixels": 1133,
+          "backgroundInkChangedPixels": 1133
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "layers": 10,
+      "meanRgbError": 0.3641,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/14/text-01.webp",
+          "paintedPixels": 36895,
+          "backgroundInkChangedPixels": 36535
+        },
+        {
+          "src": "/assets/motion/14/text-02.webp",
+          "paintedPixels": 63805,
+          "backgroundInkChangedPixels": 60134
+        },
+        {
+          "src": "/assets/motion/14/text-03.webp",
+          "paintedPixels": 9929,
+          "backgroundInkChangedPixels": 9929
+        },
+        {
+          "src": "/assets/motion/14/text-04.webp",
+          "paintedPixels": 51092,
+          "backgroundInkChangedPixels": 47459
+        },
+        {
+          "src": "/assets/motion/14/text-05.webp",
+          "paintedPixels": 27348,
+          "backgroundInkChangedPixels": 24658
+        },
+        {
+          "src": "/assets/motion/14/text-06.webp",
+          "paintedPixels": 21819,
+          "backgroundInkChangedPixels": 21819
+        },
+        {
+          "src": "/assets/motion/14/text-07.webp",
+          "paintedPixels": 10247,
+          "backgroundInkChangedPixels": 10247
+        },
+        {
+          "src": "/assets/motion/14/text-08.webp",
+          "paintedPixels": 9705,
+          "backgroundInkChangedPixels": 9705
+        },
+        {
+          "src": "/assets/motion/14/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/14/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "layers": 10,
+      "meanRgbError": 0.3727,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/15/text-01.webp",
+          "paintedPixels": 49591,
+          "backgroundInkChangedPixels": 49591
+        },
+        {
+          "src": "/assets/motion/15/text-02.webp",
+          "paintedPixels": 47833,
+          "backgroundInkChangedPixels": 47767
+        },
+        {
+          "src": "/assets/motion/15/text-03.webp",
+          "paintedPixels": 10160,
+          "backgroundInkChangedPixels": 10160
+        },
+        {
+          "src": "/assets/motion/15/text-04.webp",
+          "paintedPixels": 9257,
+          "backgroundInkChangedPixels": 9257
+        },
+        {
+          "src": "/assets/motion/15/text-05.webp",
+          "paintedPixels": 11865,
+          "backgroundInkChangedPixels": 11659
+        },
+        {
+          "src": "/assets/motion/15/text-06.webp",
+          "paintedPixels": 10074,
+          "backgroundInkChangedPixels": 10074
+        },
+        {
+          "src": "/assets/motion/15/text-07.webp",
+          "paintedPixels": 17523,
+          "backgroundInkChangedPixels": 17323
+        },
+        {
+          "src": "/assets/motion/15/text-08.webp",
+          "paintedPixels": 9064,
+          "backgroundInkChangedPixels": 9064
+        },
+        {
+          "src": "/assets/motion/15/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/15/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "layers": 10,
+      "meanRgbError": 0.5712,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/16/text-01.webp",
+          "paintedPixels": 807,
+          "backgroundInkChangedPixels": 807
+        },
+        {
+          "src": "/assets/motion/16/text-02.webp",
+          "paintedPixels": 89937,
+          "backgroundInkChangedPixels": 89937
+        },
+        {
+          "src": "/assets/motion/16/text-03.webp",
+          "paintedPixels": 476,
+          "backgroundInkChangedPixels": 476
+        },
+        {
+          "src": "/assets/motion/16/text-04.webp",
+          "paintedPixels": 436,
+          "backgroundInkChangedPixels": 436
+        },
+        {
+          "src": "/assets/motion/16/text-05.webp",
+          "paintedPixels": 469,
+          "backgroundInkChangedPixels": 465
+        },
+        {
+          "src": "/assets/motion/16/text-06.webp",
+          "paintedPixels": 498,
+          "backgroundInkChangedPixels": 495
+        },
+        {
+          "src": "/assets/motion/16/text-07.webp",
+          "paintedPixels": 408,
+          "backgroundInkChangedPixels": 408
+        },
+        {
+          "src": "/assets/motion/16/text-08.webp",
+          "paintedPixels": 512,
+          "backgroundInkChangedPixels": 512
+        },
+        {
+          "src": "/assets/motion/16/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/16/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "layers": 6,
+      "meanRgbError": 0.5258,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/17/text-01.webp",
+          "paintedPixels": 63641,
+          "backgroundInkChangedPixels": 63548
+        },
+        {
+          "src": "/assets/motion/17/text-02.webp",
+          "paintedPixels": 40071,
+          "backgroundInkChangedPixels": 40021
+        },
+        {
+          "src": "/assets/motion/17/text-03.webp",
+          "paintedPixels": 19096,
+          "backgroundInkChangedPixels": 18830
+        },
+        {
+          "src": "/assets/motion/17/text-04.webp",
+          "paintedPixels": 1737,
+          "backgroundInkChangedPixels": 1705
+        },
+        {
+          "src": "/assets/motion/17/text-05.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/17/text-06.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "layers": 8,
+      "meanRgbError": 0.4242,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/18/text-01.webp",
+          "paintedPixels": 11674,
+          "backgroundInkChangedPixels": 11674
+        },
+        {
+          "src": "/assets/motion/18/text-02.webp",
+          "paintedPixels": 12012,
+          "backgroundInkChangedPixels": 12012
+        },
+        {
+          "src": "/assets/motion/18/text-03.webp",
+          "paintedPixels": 13608,
+          "backgroundInkChangedPixels": 13608
+        },
+        {
+          "src": "/assets/motion/18/text-04.webp",
+          "paintedPixels": 4099,
+          "backgroundInkChangedPixels": 4099
+        },
+        {
+          "src": "/assets/motion/18/text-05.webp",
+          "paintedPixels": 4966,
+          "backgroundInkChangedPixels": 4966
+        },
+        {
+          "src": "/assets/motion/18/text-06.webp",
+          "paintedPixels": 4145,
+          "backgroundInkChangedPixels": 4145
+        },
+        {
+          "src": "/assets/motion/18/text-07.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/18/text-08.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "layers": 9,
+      "meanRgbError": 0.2403,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/19/text-01.webp",
+          "paintedPixels": 58674,
+          "backgroundInkChangedPixels": 57848
+        },
+        {
+          "src": "/assets/motion/19/text-02.webp",
+          "paintedPixels": 16282,
+          "backgroundInkChangedPixels": 16253
+        },
+        {
+          "src": "/assets/motion/19/text-03.webp",
+          "paintedPixels": 69088,
+          "backgroundInkChangedPixels": 69088
+        },
+        {
+          "src": "/assets/motion/19/text-04.webp",
+          "paintedPixels": 8088,
+          "backgroundInkChangedPixels": 8053
+        },
+        {
+          "src": "/assets/motion/19/text-05.webp",
+          "paintedPixels": 12655,
+          "backgroundInkChangedPixels": 12655
+        },
+        {
+          "src": "/assets/motion/19/text-06.webp",
+          "paintedPixels": 21994,
+          "backgroundInkChangedPixels": 21994
+        },
+        {
+          "src": "/assets/motion/19/text-07.webp",
+          "paintedPixels": 10570,
+          "backgroundInkChangedPixels": 10570
+        },
+        {
+          "src": "/assets/motion/19/text-08.webp",
+          "paintedPixels": 13610,
+          "backgroundInkChangedPixels": 13610
+        },
+        {
+          "src": "/assets/motion/19/text-09.webp",
+          "paintedPixels": 11659,
+          "backgroundInkChangedPixels": 11659
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "layers": 8,
+      "meanRgbError": 0.3333,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/20/text-01.webp",
+          "paintedPixels": 17269,
+          "backgroundInkChangedPixels": 17269
+        },
+        {
+          "src": "/assets/motion/20/text-02.webp",
+          "paintedPixels": 13801,
+          "backgroundInkChangedPixels": 13801
+        },
+        {
+          "src": "/assets/motion/20/text-03.webp",
+          "paintedPixels": 17815,
+          "backgroundInkChangedPixels": 17815
+        },
+        {
+          "src": "/assets/motion/20/text-04.webp",
+          "paintedPixels": 8513,
+          "backgroundInkChangedPixels": 8513
+        },
+        {
+          "src": "/assets/motion/20/text-05.webp",
+          "paintedPixels": 7767,
+          "backgroundInkChangedPixels": 7767
+        },
+        {
+          "src": "/assets/motion/20/text-06.webp",
+          "paintedPixels": 8903,
+          "backgroundInkChangedPixels": 8903
+        },
+        {
+          "src": "/assets/motion/20/text-07.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/20/text-08.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "layers": 5,
+      "meanRgbError": 0.058,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/21/text-01.webp",
+          "paintedPixels": 282892,
+          "backgroundInkChangedPixels": 282882
+        },
+        {
+          "src": "/assets/motion/21/text-02.webp",
+          "paintedPixels": 8563,
+          "backgroundInkChangedPixels": 8563
+        },
+        {
+          "src": "/assets/motion/21/text-03.webp",
+          "paintedPixels": 115787,
+          "backgroundInkChangedPixels": 115787
+        },
+        {
+          "src": "/assets/motion/21/text-04.webp",
+          "paintedPixels": 12671,
+          "backgroundInkChangedPixels": 12548
+        },
+        {
+          "src": "/assets/motion/21/text-05.webp",
+          "paintedPixels": 4811,
+          "backgroundInkChangedPixels": 4811
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "layers": 4,
+      "meanRgbError": 0.4869,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/22/text-01.webp",
+          "paintedPixels": 58838,
+          "backgroundInkChangedPixels": 58782
+        },
+        {
+          "src": "/assets/motion/22/text-02.webp",
+          "paintedPixels": 19381,
+          "backgroundInkChangedPixels": 19227
+        },
+        {
+          "src": "/assets/motion/22/text-03.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/22/text-04.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "layers": 3,
+      "meanRgbError": 1.5923,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/23/text-01.webp",
+          "paintedPixels": 54096,
+          "backgroundInkChangedPixels": 54096
+        },
+        {
+          "src": "/assets/motion/23/text-02.webp",
+          "paintedPixels": 1764,
+          "backgroundInkChangedPixels": 1764
+        },
+        {
+          "src": "/assets/motion/23/text-03.webp",
+          "paintedPixels": 919,
+          "backgroundInkChangedPixels": 919
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "layers": 10,
+      "meanRgbError": 0.801,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/30/text-01.webp",
+          "paintedPixels": 799,
+          "backgroundInkChangedPixels": 786
+        },
+        {
+          "src": "/assets/motion/30/text-02.webp",
+          "paintedPixels": 104,
+          "backgroundInkChangedPixels": 104
+        },
+        {
+          "src": "/assets/motion/30/text-03.webp",
+          "paintedPixels": 15114,
+          "backgroundInkChangedPixels": 15098
+        },
+        {
+          "src": "/assets/motion/30/text-04.webp",
+          "paintedPixels": 753,
+          "backgroundInkChangedPixels": 741
+        },
+        {
+          "src": "/assets/motion/30/text-05.webp",
+          "paintedPixels": 678,
+          "backgroundInkChangedPixels": 661
+        },
+        {
+          "src": "/assets/motion/30/text-06.webp",
+          "paintedPixels": 400,
+          "backgroundInkChangedPixels": 400
+        },
+        {
+          "src": "/assets/motion/30/text-07.webp",
+          "paintedPixels": 147,
+          "backgroundInkChangedPixels": 147
+        },
+        {
+          "src": "/assets/motion/30/text-08.webp",
+          "paintedPixels": 126,
+          "backgroundInkChangedPixels": 126
+        },
+        {
+          "src": "/assets/motion/30/text-09.webp",
+          "paintedPixels": 581,
+          "backgroundInkChangedPixels": 577
+        },
+        {
+          "src": "/assets/motion/30/text-10.webp",
+          "paintedPixels": 713,
+          "backgroundInkChangedPixels": 709
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "layers": 4,
+      "meanRgbError": 0.3636,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/37/text-01.webp",
+          "paintedPixels": 34386,
+          "backgroundInkChangedPixels": 34385
+        },
+        {
+          "src": "/assets/motion/37/text-02.webp",
+          "paintedPixels": 26952,
+          "backgroundInkChangedPixels": 26732
+        },
+        {
+          "src": "/assets/motion/37/text-03.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/37/text-04.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "layers": 6,
+      "meanRgbError": 0.5471,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/38/text-01.webp",
+          "paintedPixels": 67442,
+          "backgroundInkChangedPixels": 67400
+        },
+        {
+          "src": "/assets/motion/38/text-02.webp",
+          "paintedPixels": 6326,
+          "backgroundInkChangedPixels": 6326
+        },
+        {
+          "src": "/assets/motion/38/text-03.webp",
+          "paintedPixels": 11477,
+          "backgroundInkChangedPixels": 11477
+        },
+        {
+          "src": "/assets/motion/38/text-04.webp",
+          "paintedPixels": 13227,
+          "backgroundInkChangedPixels": 13227
+        },
+        {
+          "src": "/assets/motion/38/text-05.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/38/text-06.webp",
+          "paintedPixels": 1250,
+          "backgroundInkChangedPixels": 1247
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "layers": 10,
+      "meanRgbError": 0.2356,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/39/text-01.webp",
+          "paintedPixels": 58602,
+          "backgroundInkChangedPixels": 58602
+        },
+        {
+          "src": "/assets/motion/39/text-02.webp",
+          "paintedPixels": 18093,
+          "backgroundInkChangedPixels": 18093
+        },
+        {
+          "src": "/assets/motion/39/text-03.webp",
+          "paintedPixels": 21413,
+          "backgroundInkChangedPixels": 21413
+        },
+        {
+          "src": "/assets/motion/39/text-04.webp",
+          "paintedPixels": 10658,
+          "backgroundInkChangedPixels": 10658
+        },
+        {
+          "src": "/assets/motion/39/text-05.webp",
+          "paintedPixels": 8228,
+          "backgroundInkChangedPixels": 8228
+        },
+        {
+          "src": "/assets/motion/39/text-06.webp",
+          "paintedPixels": 21149,
+          "backgroundInkChangedPixels": 21149
+        },
+        {
+          "src": "/assets/motion/39/text-07.webp",
+          "paintedPixels": 5789,
+          "backgroundInkChangedPixels": 5789
+        },
+        {
+          "src": "/assets/motion/39/text-08.webp",
+          "paintedPixels": 7845,
+          "backgroundInkChangedPixels": 7845
+        },
+        {
+          "src": "/assets/motion/39/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/39/text-10.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "layers": 4,
+      "meanRgbError": 0.2491,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/40/text-01.webp",
+          "paintedPixels": 94758,
+          "backgroundInkChangedPixels": 94758
+        },
+        {
+          "src": "/assets/motion/40/text-02.webp",
+          "paintedPixels": 17731,
+          "backgroundInkChangedPixels": 17731
+        },
+        {
+          "src": "/assets/motion/40/text-03.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/40/text-04.webp",
+          "paintedPixels": 1556,
+          "backgroundInkChangedPixels": 1556
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "layers": 3,
+      "meanRgbError": 0.6664,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/41/text-01.webp",
+          "paintedPixels": 69324,
+          "backgroundInkChangedPixels": 69231
+        },
+        {
+          "src": "/assets/motion/41/text-02.webp",
+          "paintedPixels": 21687,
+          "backgroundInkChangedPixels": 21687
+        },
+        {
+          "src": "/assets/motion/41/text-03.webp",
+          "paintedPixels": 4801,
+          "backgroundInkChangedPixels": 4801
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "layers": 10,
+      "meanRgbError": 0.3925,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/42/text-01.webp",
+          "paintedPixels": 11356,
+          "backgroundInkChangedPixels": 11356
+        },
+        {
+          "src": "/assets/motion/42/text-02.webp",
+          "paintedPixels": 7766,
+          "backgroundInkChangedPixels": 7766
+        },
+        {
+          "src": "/assets/motion/42/text-03.webp",
+          "paintedPixels": 338,
+          "backgroundInkChangedPixels": 338
+        },
+        {
+          "src": "/assets/motion/42/text-04.webp",
+          "paintedPixels": 10930,
+          "backgroundInkChangedPixels": 10930
+        },
+        {
+          "src": "/assets/motion/42/text-05.webp",
+          "paintedPixels": 334,
+          "backgroundInkChangedPixels": 334
+        },
+        {
+          "src": "/assets/motion/42/text-06.webp",
+          "paintedPixels": 349,
+          "backgroundInkChangedPixels": 349
+        },
+        {
+          "src": "/assets/motion/42/text-07.webp",
+          "paintedPixels": 11025,
+          "backgroundInkChangedPixels": 11025
+        },
+        {
+          "src": "/assets/motion/42/text-08.webp",
+          "paintedPixels": 10380,
+          "backgroundInkChangedPixels": 10380
+        },
+        {
+          "src": "/assets/motion/42/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/42/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "layers": 10,
+      "meanRgbError": 0.4809,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/43/text-01.webp",
+          "paintedPixels": 12328,
+          "backgroundInkChangedPixels": 12328
+        },
+        {
+          "src": "/assets/motion/43/text-02.webp",
+          "paintedPixels": 8722,
+          "backgroundInkChangedPixels": 8722
+        },
+        {
+          "src": "/assets/motion/43/text-03.webp",
+          "paintedPixels": 106837,
+          "backgroundInkChangedPixels": 106546
+        },
+        {
+          "src": "/assets/motion/43/text-04.webp",
+          "paintedPixels": 21665,
+          "backgroundInkChangedPixels": 21665
+        },
+        {
+          "src": "/assets/motion/43/text-05.webp",
+          "paintedPixels": 15921,
+          "backgroundInkChangedPixels": 15921
+        },
+        {
+          "src": "/assets/motion/43/text-06.webp",
+          "paintedPixels": 719,
+          "backgroundInkChangedPixels": 719
+        },
+        {
+          "src": "/assets/motion/43/text-07.webp",
+          "paintedPixels": 16020,
+          "backgroundInkChangedPixels": 16020
+        },
+        {
+          "src": "/assets/motion/43/text-08.webp",
+          "paintedPixels": 11589,
+          "backgroundInkChangedPixels": 11589
+        },
+        {
+          "src": "/assets/motion/43/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/43/text-10.webp",
+          "paintedPixels": 1304,
+          "backgroundInkChangedPixels": 1303
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "layers": 6,
+      "meanRgbError": 0.3355,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/44/text-01.webp",
+          "paintedPixels": 147729,
+          "backgroundInkChangedPixels": 147729
+        },
+        {
+          "src": "/assets/motion/44/text-02.webp",
+          "paintedPixels": 13961,
+          "backgroundInkChangedPixels": 13961
+        },
+        {
+          "src": "/assets/motion/44/text-03.webp",
+          "paintedPixels": 13325,
+          "backgroundInkChangedPixels": 13325
+        },
+        {
+          "src": "/assets/motion/44/text-04.webp",
+          "paintedPixels": 3790,
+          "backgroundInkChangedPixels": 3790
+        },
+        {
+          "src": "/assets/motion/44/text-05.webp",
+          "paintedPixels": 3300,
+          "backgroundInkChangedPixels": 3300
+        },
+        {
+          "src": "/assets/motion/44/text-06.webp",
+          "paintedPixels": 1524,
+          "backgroundInkChangedPixels": 1524
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "layers": 7,
+      "meanRgbError": 0.197,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/45/text-01.webp",
+          "paintedPixels": 67629,
+          "backgroundInkChangedPixels": 67629
+        },
+        {
+          "src": "/assets/motion/45/text-02.webp",
+          "paintedPixels": 57590,
+          "backgroundInkChangedPixels": 57590
+        },
+        {
+          "src": "/assets/motion/45/text-03.webp",
+          "paintedPixels": 11752,
+          "backgroundInkChangedPixels": 11752
+        },
+        {
+          "src": "/assets/motion/45/text-04.webp",
+          "paintedPixels": 10219,
+          "backgroundInkChangedPixels": 10219
+        },
+        {
+          "src": "/assets/motion/45/text-05.webp",
+          "paintedPixels": 21368,
+          "backgroundInkChangedPixels": 21330
+        },
+        {
+          "src": "/assets/motion/45/text-06.webp",
+          "paintedPixels": 16169,
+          "backgroundInkChangedPixels": 16169
+        },
+        {
+          "src": "/assets/motion/45/text-07.webp",
+          "paintedPixels": 4824,
+          "backgroundInkChangedPixels": 4824
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "layers": 3,
+      "meanRgbError": 0.378,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/46/text-01.webp",
+          "paintedPixels": 56784,
+          "backgroundInkChangedPixels": 56777
+        },
+        {
+          "src": "/assets/motion/46/text-02.webp",
+          "paintedPixels": 18320,
+          "backgroundInkChangedPixels": 18320
+        },
+        {
+          "src": "/assets/motion/46/text-03.webp",
+          "paintedPixels": 4801,
+          "backgroundInkChangedPixels": 4801
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "layers": 10,
+      "meanRgbError": 0.4275,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/47/text-01.webp",
+          "paintedPixels": 89706,
+          "backgroundInkChangedPixels": 89679
+        },
+        {
+          "src": "/assets/motion/47/text-02.webp",
+          "paintedPixels": 9120,
+          "backgroundInkChangedPixels": 9120
+        },
+        {
+          "src": "/assets/motion/47/text-03.webp",
+          "paintedPixels": 11501,
+          "backgroundInkChangedPixels": 11406
+        },
+        {
+          "src": "/assets/motion/47/text-04.webp",
+          "paintedPixels": 11037,
+          "backgroundInkChangedPixels": 11037
+        },
+        {
+          "src": "/assets/motion/47/text-05.webp",
+          "paintedPixels": 6102,
+          "backgroundInkChangedPixels": 6102
+        },
+        {
+          "src": "/assets/motion/47/text-06.webp",
+          "paintedPixels": 7034,
+          "backgroundInkChangedPixels": 7034
+        },
+        {
+          "src": "/assets/motion/47/text-07.webp",
+          "paintedPixels": 17452,
+          "backgroundInkChangedPixels": 17452
+        },
+        {
+          "src": "/assets/motion/47/text-08.webp",
+          "paintedPixels": 12173,
+          "backgroundInkChangedPixels": 12173
+        },
+        {
+          "src": "/assets/motion/47/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/47/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "layers": 10,
+      "meanRgbError": 0.4196,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/48/text-01.webp",
+          "paintedPixels": 10028,
+          "backgroundInkChangedPixels": 10028
+        },
+        {
+          "src": "/assets/motion/48/text-02.webp",
+          "paintedPixels": 8266,
+          "backgroundInkChangedPixels": 8266
+        },
+        {
+          "src": "/assets/motion/48/text-03.webp",
+          "paintedPixels": 80943,
+          "backgroundInkChangedPixels": 80772
+        },
+        {
+          "src": "/assets/motion/48/text-04.webp",
+          "paintedPixels": 9701,
+          "backgroundInkChangedPixels": 9701
+        },
+        {
+          "src": "/assets/motion/48/text-05.webp",
+          "paintedPixels": 8078,
+          "backgroundInkChangedPixels": 8078
+        },
+        {
+          "src": "/assets/motion/48/text-06.webp",
+          "paintedPixels": 15634,
+          "backgroundInkChangedPixels": 15634
+        },
+        {
+          "src": "/assets/motion/48/text-07.webp",
+          "paintedPixels": 30980,
+          "backgroundInkChangedPixels": 30979
+        },
+        {
+          "src": "/assets/motion/48/text-08.webp",
+          "paintedPixels": 7835,
+          "backgroundInkChangedPixels": 7835
+        },
+        {
+          "src": "/assets/motion/48/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/48/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "layers": 10,
+      "meanRgbError": 0.3565,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/49/text-01.webp",
+          "paintedPixels": 97563,
+          "backgroundInkChangedPixels": 97563
+        },
+        {
+          "src": "/assets/motion/49/text-02.webp",
+          "paintedPixels": 3026,
+          "backgroundInkChangedPixels": 3026
+        },
+        {
+          "src": "/assets/motion/49/text-03.webp",
+          "paintedPixels": 1868,
+          "backgroundInkChangedPixels": 1868
+        },
+        {
+          "src": "/assets/motion/49/text-04.webp",
+          "paintedPixels": 6994,
+          "backgroundInkChangedPixels": 6994
+        },
+        {
+          "src": "/assets/motion/49/text-05.webp",
+          "paintedPixels": 2087,
+          "backgroundInkChangedPixels": 2087
+        },
+        {
+          "src": "/assets/motion/49/text-06.webp",
+          "paintedPixels": 19736,
+          "backgroundInkChangedPixels": 19736
+        },
+        {
+          "src": "/assets/motion/49/text-07.webp",
+          "paintedPixels": 21549,
+          "backgroundInkChangedPixels": 21549
+        },
+        {
+          "src": "/assets/motion/49/text-08.webp",
+          "paintedPixels": 2036,
+          "backgroundInkChangedPixels": 2036
+        },
+        {
+          "src": "/assets/motion/49/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/49/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "layers": 10,
+      "meanRgbError": 0.3582,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/50/text-01.webp",
+          "paintedPixels": 2911,
+          "backgroundInkChangedPixels": 2911
+        },
+        {
+          "src": "/assets/motion/50/text-02.webp",
+          "paintedPixels": 2914,
+          "backgroundInkChangedPixels": 2914
+        },
+        {
+          "src": "/assets/motion/50/text-03.webp",
+          "paintedPixels": 74232,
+          "backgroundInkChangedPixels": 74232
+        },
+        {
+          "src": "/assets/motion/50/text-04.webp",
+          "paintedPixels": 11515,
+          "backgroundInkChangedPixels": 11515
+        },
+        {
+          "src": "/assets/motion/50/text-05.webp",
+          "paintedPixels": 16659,
+          "backgroundInkChangedPixels": 16659
+        },
+        {
+          "src": "/assets/motion/50/text-06.webp",
+          "paintedPixels": 16810,
+          "backgroundInkChangedPixels": 16810
+        },
+        {
+          "src": "/assets/motion/50/text-07.webp",
+          "paintedPixels": 3777,
+          "backgroundInkChangedPixels": 3777
+        },
+        {
+          "src": "/assets/motion/50/text-08.webp",
+          "paintedPixels": 4949,
+          "backgroundInkChangedPixels": 4949
+        },
+        {
+          "src": "/assets/motion/50/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/50/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "layers": 10,
+      "meanRgbError": 0.0333,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/51/text-01.webp",
+          "paintedPixels": 76094,
+          "backgroundInkChangedPixels": 76094
+        },
+        {
+          "src": "/assets/motion/51/text-02.webp",
+          "paintedPixels": 7481,
+          "backgroundInkChangedPixels": 7481
+        },
+        {
+          "src": "/assets/motion/51/text-03.webp",
+          "paintedPixels": 5288,
+          "backgroundInkChangedPixels": 5288
+        },
+        {
+          "src": "/assets/motion/51/text-04.webp",
+          "paintedPixels": 506,
+          "backgroundInkChangedPixels": 506
+        },
+        {
+          "src": "/assets/motion/51/text-05.webp",
+          "paintedPixels": 47270,
+          "backgroundInkChangedPixels": 47270
+        },
+        {
+          "src": "/assets/motion/51/text-06.webp",
+          "paintedPixels": 5047,
+          "backgroundInkChangedPixels": 5047
+        },
+        {
+          "src": "/assets/motion/51/text-07.webp",
+          "paintedPixels": 513,
+          "backgroundInkChangedPixels": 511
+        },
+        {
+          "src": "/assets/motion/51/text-08.webp",
+          "paintedPixels": 32301,
+          "backgroundInkChangedPixels": 32301
+        },
+        {
+          "src": "/assets/motion/51/text-09.webp",
+          "paintedPixels": 3300,
+          "backgroundInkChangedPixels": 3300
+        },
+        {
+          "src": "/assets/motion/51/text-10.webp",
+          "paintedPixels": 1524,
+          "backgroundInkChangedPixels": 1524
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "layers": 6,
+      "meanRgbError": 0.108,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/52/text-01.webp",
+          "paintedPixels": 97984,
+          "backgroundInkChangedPixels": 97975
+        },
+        {
+          "src": "/assets/motion/52/text-02.webp",
+          "paintedPixels": 165651,
+          "backgroundInkChangedPixels": 165651
+        },
+        {
+          "src": "/assets/motion/52/text-03.webp",
+          "paintedPixels": 11520,
+          "backgroundInkChangedPixels": 11520
+        },
+        {
+          "src": "/assets/motion/52/text-04.webp",
+          "paintedPixels": 4288,
+          "backgroundInkChangedPixels": 4288
+        },
+        {
+          "src": "/assets/motion/52/text-05.webp",
+          "paintedPixels": 3300,
+          "backgroundInkChangedPixels": 3300
+        },
+        {
+          "src": "/assets/motion/52/text-06.webp",
+          "paintedPixels": 1524,
+          "backgroundInkChangedPixels": 1524
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "layers": 5,
+      "meanRgbError": 0.1865,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/53/text-01.webp",
+          "paintedPixels": 89732,
+          "backgroundInkChangedPixels": 89732
+        },
+        {
+          "src": "/assets/motion/53/text-02.webp",
+          "paintedPixels": 601,
+          "backgroundInkChangedPixels": 585
+        },
+        {
+          "src": "/assets/motion/53/text-03.webp",
+          "paintedPixels": 24886,
+          "backgroundInkChangedPixels": 24886
+        },
+        {
+          "src": "/assets/motion/53/text-04.webp",
+          "paintedPixels": 3300,
+          "backgroundInkChangedPixels": 3300
+        },
+        {
+          "src": "/assets/motion/53/text-05.webp",
+          "paintedPixels": 1524,
+          "backgroundInkChangedPixels": 1524
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "layers": 10,
+      "meanRgbError": 0.3679,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/54/text-01.webp",
+          "paintedPixels": 41157,
+          "backgroundInkChangedPixels": 41157
+        },
+        {
+          "src": "/assets/motion/54/text-02.webp",
+          "paintedPixels": 5646,
+          "backgroundInkChangedPixels": 5646
+        },
+        {
+          "src": "/assets/motion/54/text-03.webp",
+          "paintedPixels": 2848,
+          "backgroundInkChangedPixels": 2848
+        },
+        {
+          "src": "/assets/motion/54/text-04.webp",
+          "paintedPixels": 10182,
+          "backgroundInkChangedPixels": 10182
+        },
+        {
+          "src": "/assets/motion/54/text-05.webp",
+          "paintedPixels": 6147,
+          "backgroundInkChangedPixels": 6147
+        },
+        {
+          "src": "/assets/motion/54/text-06.webp",
+          "paintedPixels": 33442,
+          "backgroundInkChangedPixels": 33442
+        },
+        {
+          "src": "/assets/motion/54/text-07.webp",
+          "paintedPixels": 3087,
+          "backgroundInkChangedPixels": 3087
+        },
+        {
+          "src": "/assets/motion/54/text-08.webp",
+          "paintedPixels": 11568,
+          "backgroundInkChangedPixels": 11568
+        },
+        {
+          "src": "/assets/motion/54/text-09.webp",
+          "paintedPixels": 4521,
+          "backgroundInkChangedPixels": 4521
+        },
+        {
+          "src": "/assets/motion/54/text-10.webp",
+          "paintedPixels": 4801,
+          "backgroundInkChangedPixels": 4801
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "layers": 10,
+      "meanRgbError": 0.3689,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/55/text-01.webp",
+          "paintedPixels": 42346,
+          "backgroundInkChangedPixels": 42346
+        },
+        {
+          "src": "/assets/motion/55/text-02.webp",
+          "paintedPixels": 21144,
+          "backgroundInkChangedPixels": 21144
+        },
+        {
+          "src": "/assets/motion/55/text-03.webp",
+          "paintedPixels": 2983,
+          "backgroundInkChangedPixels": 2983
+        },
+        {
+          "src": "/assets/motion/55/text-04.webp",
+          "paintedPixels": 9598,
+          "backgroundInkChangedPixels": 9598
+        },
+        {
+          "src": "/assets/motion/55/text-05.webp",
+          "paintedPixels": 44203,
+          "backgroundInkChangedPixels": 44106
+        },
+        {
+          "src": "/assets/motion/55/text-06.webp",
+          "paintedPixels": 17510,
+          "backgroundInkChangedPixels": 17510
+        },
+        {
+          "src": "/assets/motion/55/text-07.webp",
+          "paintedPixels": 3224,
+          "backgroundInkChangedPixels": 3224
+        },
+        {
+          "src": "/assets/motion/55/text-08.webp",
+          "paintedPixels": 6264,
+          "backgroundInkChangedPixels": 6264
+        },
+        {
+          "src": "/assets/motion/55/text-09.webp",
+          "paintedPixels": 3255,
+          "backgroundInkChangedPixels": 3255
+        },
+        {
+          "src": "/assets/motion/55/text-10.webp",
+          "paintedPixels": 1546,
+          "backgroundInkChangedPixels": 1546
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "layers": 7,
+      "meanRgbError": 0.2117,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/56/text-01.webp",
+          "paintedPixels": 42439,
+          "backgroundInkChangedPixels": 42438
+        },
+        {
+          "src": "/assets/motion/56/text-02.webp",
+          "paintedPixels": 11550,
+          "backgroundInkChangedPixels": 11550
+        },
+        {
+          "src": "/assets/motion/56/text-03.webp",
+          "paintedPixels": 18185,
+          "backgroundInkChangedPixels": 18162
+        },
+        {
+          "src": "/assets/motion/56/text-04.webp",
+          "paintedPixels": 28547,
+          "backgroundInkChangedPixels": 28547
+        },
+        {
+          "src": "/assets/motion/56/text-05.webp",
+          "paintedPixels": 10821,
+          "backgroundInkChangedPixels": 10821
+        },
+        {
+          "src": "/assets/motion/56/text-06.webp",
+          "paintedPixels": 3300,
+          "backgroundInkChangedPixels": 3300
+        },
+        {
+          "src": "/assets/motion/56/text-07.webp",
+          "paintedPixels": 1524,
+          "backgroundInkChangedPixels": 1524
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "layers": 10,
+      "meanRgbError": 0.3073,
+      "paintChecks": [
+        {
+          "src": "/assets/motion/57/text-01.webp",
+          "paintedPixels": 41667,
+          "backgroundInkChangedPixels": 41667
+        },
+        {
+          "src": "/assets/motion/57/text-02.webp",
+          "paintedPixels": 26819,
+          "backgroundInkChangedPixels": 26819
+        },
+        {
+          "src": "/assets/motion/57/text-03.webp",
+          "paintedPixels": 12321,
+          "backgroundInkChangedPixels": 12321
+        },
+        {
+          "src": "/assets/motion/57/text-04.webp",
+          "paintedPixels": 2246,
+          "backgroundInkChangedPixels": 2244
+        },
+        {
+          "src": "/assets/motion/57/text-05.webp",
+          "paintedPixels": 14727,
+          "backgroundInkChangedPixels": 14727
+        },
+        {
+          "src": "/assets/motion/57/text-06.webp",
+          "paintedPixels": 16017,
+          "backgroundInkChangedPixels": 16017
+        },
+        {
+          "src": "/assets/motion/57/text-07.webp",
+          "paintedPixels": 22581,
+          "backgroundInkChangedPixels": 22581
+        },
+        {
+          "src": "/assets/motion/57/text-08.webp",
+          "paintedPixels": 7906,
+          "backgroundInkChangedPixels": 7906
+        },
+        {
+          "src": "/assets/motion/57/text-09.webp",
+          "paintedPixels": 4801,
+          "backgroundInkChangedPixels": 4801
+        },
+        {
+          "src": "/assets/motion/57/text-10.webp",
+          "paintedPixels": 6000,
+          "backgroundInkChangedPixels": 6000
+        }
+      ]
+    }
+  ]
+}

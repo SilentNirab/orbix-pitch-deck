@@ -1,0 +1,222 @@
+[
+  {
+    "width": 320,
+    "height": 568,
+    "pageWidth": 320,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 124,
+        "height": 44
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 132.078125,
+        "height": 44
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 360,
+    "height": 640,
+    "pageWidth": 360,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 124,
+        "height": 44
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 132.078125,
+        "height": 44
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 375,
+    "height": 667,
+    "pageWidth": 375,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 124,
+        "height": 44
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 132.078125,
+        "height": 44
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "pageWidth": 390,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 124,
+        "height": 44
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 132.078125,
+        "height": 44
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 414,
+    "height": 896,
+    "pageWidth": 414,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 124,
+        "height": 44
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 132.078125,
+        "height": 44
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 568,
+    "height": 320,
+    "pageWidth": 568,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 124,
+        "height": 44
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 132.078125,
+        "height": 44
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "pageWidth": 844,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 142,
+        "height": 23.015625
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 156.75,
+        "height": 43.09375
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "pageWidth": 768,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 142,
+        "height": 23.015625
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 156.75,
+        "height": 43.09375
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "pageWidth": 1024,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 142,
+        "height": 23.015625
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 156.75,
+        "height": 43.09375
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "pageWidth": 1440,
+    "slides": 57,
+    "previews": 57,
+    "sections": 6,
+    "header": [
+      {
+        "text": "Orbix Studio pitch deck viewer",
+        "width": 142,
+        "height": 23.015625
+      },
+      {
+        "text": "Open slide viewer ↗",
+        "width": 156.75,
+        "height": 43.09375
+      }
+    ],
+    "overflow": [],
+    "failures": []
+  }
+]

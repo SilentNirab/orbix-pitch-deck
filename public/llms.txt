@@ -1,0 +1,25 @@
+# Orbix Studio
+
+> The supplied Orbix Studio pitch deck: 57 original slides covering the studio, services, selected work, team, engagements, and next steps.
+
+This index describes this deck only. Text exports preserve the supplied source copy. 11 artwork slides have no extracted text and are explicitly marked visual-only; use their original images or the PDF. Figures and pricing belong to the supplied deck snapshot.
+
+## Deck content
+
+- [Full deck Markdown](<http://127.0.0.1:5188/deck.md>): Complete source copy, slide titles, sections, and stable links. Preferred starting point.
+- [Structured deck JSON](<http://127.0.0.1:5188/data/deck.json>): All slide metadata and unmodified text, with textAvailability and source PDF pages.
+- [Deck JSON Schema](<http://127.0.0.1:5188/data/deck.schema.json>): JSON Schema 2020-12 for the structured export.
+- [Readable deck](<http://127.0.0.1:5188/read/>): Semantic HTML containing all slides without requiring JavaScript.
+- [Full deck text](<http://127.0.0.1:5188/llms-full.txt>): Complete copy with provenance in a single text file.
+- [Original deck PDF](<http://127.0.0.1:5188/assets/orbix-pitch-deck.pdf>): Original artwork and source material for visual-only slides.
+- [Interactive slide viewer](<http://127.0.0.1:5188/>): Presentation with stable #slide-N links.
+- [Original Figma source](<https://www.figma.com/design/W5FZYbLVrkrIdSb3kwpL94/Branding---Graphical-Elements?node-id=961-3139>): Design source supplied for this deck.
+
+## Sections
+
+- [Introduction](<http://127.0.0.1:5188/read/#section-introduction>): Slides 1–9.
+- [Services & process](<http://127.0.0.1:5188/read/#section-services-process>): Slides 10–21.
+- [Selected work](<http://127.0.0.1:5188/read/#section-selected-work>): Slides 22–36.
+- [Who we are](<http://127.0.0.1:5188/read/#section-who-we-are>): Slides 37–44.
+- [Engagement & investment](<http://127.0.0.1:5188/read/#section-engagement-investment>): Slides 45–56.
+- [Next steps](<http://127.0.0.1:5188/read/#section-next-steps>): Slides 57–57.

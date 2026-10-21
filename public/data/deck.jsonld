@@ -1,0 +1,706 @@
+{
+  "@context": "https://schema.org",
+  "@type": "PresentationDigitalDocument",
+  "@id": "http://127.0.0.1:5188/read/#deck",
+  "name": "Orbix Studio — Pitch Deck",
+  "description": "Content is a snapshot of the supplied Orbix Studio pitch deck, exported from Figma. Source text and line breaks are preserved, including repeated branding. Slides marked visual-only contain artwork with no extracted text; consult their original images or the PDF.",
+  "inLanguage": "en",
+  "url": "http://127.0.0.1:5188/read/",
+  "isBasedOn": "https://www.figma.com/design/W5FZYbLVrkrIdSb3kwpL94/Branding---Graphical-Elements?node-id=961-3139",
+  "author": {
+    "@type": "Organization",
+    "name": "Orbix Studio",
+    "url": "https://www.orbix.studio/"
+  },
+  "encoding": {
+    "@type": "MediaObject",
+    "contentUrl": "http://127.0.0.1:5188/assets/orbix-pitch-deck.pdf",
+    "encodingFormat": "application/pdf"
+  },
+  "hasPart": [
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-1",
+      "position": 1,
+      "name": "Company deck",
+      "text": "Company\nDeck\nOrbix Studio\nEurope\nDesign\n©2026\n10+ YEARS OF\nDESIGN EXPERIENCE\nSTRATEGY — UI/UX \nDEVELOPMENT\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-1",
+      "image": "http://127.0.0.1:5188/assets/slides/01.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-2",
+      "position": 2,
+      "name": "What’s inside",
+      "text": "What’s Inside\nSee what we do, how we work, and where we can \ntake your next big idea.\n01. Introduction\n02. Services\n06. Next Step\n04. Who We Are\n03. Case Studies\n05. Engagement\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-2",
+      "image": "http://127.0.0.1:5188/assets/slides/02.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-3",
+      "position": 3,
+      "name": "Ambitious digital experiences",
+      "text": "Product × Design × Growth\nbusinesses forward\nexperiences that\nmove\nWe build\nambitious\ndigital\nBy bringing brand, product, and technology together, we help \nteams launch and scale with confidence\nC l e a r e r P r o d u c t s\nB r i g h t e r g r o w t h\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-3",
+      "image": "http://127.0.0.1:5188/assets/slides/03.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-4",
+      "position": 4,
+      "name": "Our core proposition",
+      "text": "Product × Design × Growth\nOur Core \nProposition\nTraditional agencies deliver polished visuals. We \nbuild clear, scalable product systems that help \nambitious businesses grow.\nStrategy\nDesign\nBuild\nScale\nScalable\nSystems\nDesign and build for\nlong-term growth\nHappier\nCustomers\nBetter  experience\nStronger relationships\nBusiness\nImpact\n+300%\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-4",
+      "image": "http://127.0.0.1:5188/assets/slides/04.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-5",
+      "position": 5,
+      "name": "The problems we solve",
+      "text": "Product × Design × Growth\nThe Problems\nWe Solve\n01\n02\nInconsistent brand \nexperiences that weaken \ncustomer trust\nWebsites that attract \nvisitors but fail to convert\nOrbix Studio\nDesign gaps can weaken customer trust and \nslow development. We help resolve the issues \nholding your business back.\n03\n04\nComplex products that \nmake everyday tasks \ndifficult\nIncomplete design handoffs \nthat cause rework and delay \nlaunches",
+      "url": "http://127.0.0.1:5188/read/#slide-5",
+      "image": "http://127.0.0.1:5188/assets/slides/05.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-6",
+      "position": 6,
+      "name": "Better product experiences",
+      "text": "Product × Design × Growth\nWhen your product is hard to use, users leave \nand growth slows. We help you fix what's \nholding your product back and build better \nexperiences that drive growth.\nClear UX. Scalable systems. \nDEVELOPMENT\nBetter product \nexperiences.\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-6",
+      "image": "http://127.0.0.1:5188/assets/slides/06.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-7",
+      "position": 7,
+      "name": "Our design process",
+      "text": "Product × Design × Growth\nOur Design\nProcess\nWe take your product from idea to launch in three \nphases: Discover the right opportunities, design better \nuser experiences, and build a product ready to grow.\n01\n02\n03\nOrbix Studio\nDiscover\nWe uncover user needs, \nbusiness goals, and product \nchallenges through research.\nDesign\nWe transform those insights into \nintuitive flows, interfaces, and \nscalable systems.\nBuild\nWe bring the design to life \nwith polished UI and \ndeveloper-ready handoff.",
+      "url": "http://127.0.0.1:5188/read/#slide-7",
+      "image": "http://127.0.0.1:5188/assets/slides/07.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-8",
+      "position": 8,
+      "name": "Why product-led design matters",
+      "text": "Product × Design × Growth\nWhy Product-Led\nDesign Matters\nPoor product experiences lead to lower conversions and higher churn. Product-led design helps \nyou improve usability, retain customers, and support long-term growth.\nFaster Onboarding\nHigher Conversion\nStronger Retention\nScalable Feature expansion\nLong-Term Brand Value\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-8",
+      "image": "http://127.0.0.1:5188/assets/slides/08.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-9",
+      "position": 9,
+      "name": "From design to development",
+      "text": "Product × Design × Growth\n95+\n4.95/5\n$5B\nProducts & projects \ndelivered\n10 Years\nAverage client \nsatisfaction\nEverything Your Product Need,\nFrom Design to Development\nOrbix Studio\nCombined client \nvaluation\nBuilding digital \nproducts globally",
+      "url": "http://127.0.0.1:5188/read/#slide-9",
+      "image": "http://127.0.0.1:5188/assets/slides/09.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-10",
+      "position": 10,
+      "name": "Strategy & research",
+      "text": "Product × Design × Growth\nStrategy &\nResearch\nWe look beyond the obvious to understand your users, \nmarket, and product. By uncovering unmet needs and \nopportunities, we give every design decision a clear \ndirection and a stronger business purpose.\nUsability\nUX/UI Design\nPerformance\nApps\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-10",
+      "image": "http://127.0.0.1:5188/assets/slides/10.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-11",
+      "position": 11,
+      "name": "Brand systems",
+      "text": "Product × Design × Growth\nBrand \nSystems\nOrbix Studio\nA strong brand is more than a \nlogo. We create flexible systems that \nkeep every product, campaign, and \ncustomer touchpoint visually aligned \nas the business grows.",
+      "url": "http://127.0.0.1:5188/read/#slide-11",
+      "image": "http://127.0.0.1:5188/assets/slides/11.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-12",
+      "position": 12,
+      "name": "Interface design",
+      "text": "Orbix Studio\nProduct × Design × Growth\nInterface \nDesign\nYour interface is where customers \nexperience your product. We design \nclear layouts, visual hierarchy, and UI \nsystems that guide actions while \nmaintaining consistency.\nCardiologist\nDr. Vetrick W.\nHigh Blood Pressure (Hypertension) \nheart rate: 132 bpm \n9.20\n6.10\nHgb\nRBC\n10:00 AM\nMonthly Expense\nThis Month\n60%\n20%\n5%\n15%\nProtein\n7\nDays\nHydration\n8%\n2.6 L\nBalance\n12\nMeals\nVitamins\nFiber\n76%\n5 Days\nSugar\nDaily Needs\nSavings\nShopping\nOthers\n9/12\n9/12\nPain Level Increased \nPatient reports pain level at 7 out of 10 an increase.\nSwelling Progressing\nThe patient’s pain severity has worsened recently.\nIncrease in Pain Level Noted\nThe patient mentions their pain has gotten more intense.\nHigh\nEnter Amount\n$250.00\nDoctor Profile\nUSD\nOlivia Smith\nDr. Maya Bennett\nPhilosophy\nAvailable\nCritical\nPhone Number\nEmail Address\n+ (444) 654 - 4326\nmayabenne@gmail.com\nMessage\nAddress\n123 Maple Street, 6542\nBook Appointment\nHigh\nEstimated Delivery\nInstant – 10 min\nAlex Morgan",
+      "url": "http://127.0.0.1:5188/read/#slide-12",
+      "image": "http://127.0.0.1:5188/assets/slides/12.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-13",
+      "position": 13,
+      "name": "UX architecture",
+      "text": "ud Score\nOrbix Studio\nProduct × Design × Growth\nUX \nArchitecture\nAs products grow, structure becomes \nessential. We structure the information \nhierarchy and workflow logic that \norganize complex product systems.\nAsk anything...\nInbox\nDashboard\nInbox\nTotal Note\n128 Notes\n3\n+243 \nCollaborate with friends and \nstudy together anytime\nClaude 3.5\n12 Folders\nJordan Taylor\nI’d appreciate an estimat\n12\nJamie Parker\nI’d like to reques\n12 Folders\nAlexandr\n112\nCould \n32\nU\n12\n2\nTotal Note\n5\nFreud Score\nJournal\nInbox\nJournal\nYour Inbox\nYour Inbox\nMentions\nCreated by you\nUnassigned\n128 Notes\n6 open\n+243 \n3\nCollaborate with friends and \nstudy together anytime\n6\n80\nHealthy\n25/365\nNormal\n25/365\nNormal\n112\n32\n8\n0\nSent",
+      "url": "http://127.0.0.1:5188/read/#slide-13",
+      "image": "http://127.0.0.1:5188/assets/slides/13.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-14",
+      "position": 14,
+      "name": "Product design & development",
+      "text": "Product × Design × Growth\n01\nProduct \nDesign\nTurn your idea into a product \nthat's easy to use,& built around \nwhat your customers need.\n02\nDevelopment \nCapabilities\nClean, scalable implementation \nthat keeps design and \nengineering closely aligned.\nOrbix Studio\nDesign Systems \n& Scalability\nReusable components and patterns \nthat help products grow without losing \nconsistency.\n03\n04\nAI & Automation \nIntegration\nSmart workflows and automation \nintegrated where they create real \nproduct value.",
+      "url": "http://127.0.0.1:5188/read/#slide-14",
+      "image": "http://127.0.0.1:5188/assets/slides/14.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-15",
+      "position": 15,
+      "name": "Our full-cycle design process",
+      "text": "Product × Design × Growth\nOur Full Cycle\nProduct Design \nProcess\nFrom the initial plan to ongoing \nimprovements, we help you shape, build, and \nrefine your product.\nOrbix Studio\nStrategic Alignment\nObjectives, stakeholder mapping, and measurable \nsuccess criteria defined upfront.\nSystem Design\nUX architecture, design systems, and interface \nframeworks built to specification.\nImplementation Support\nEngineering collaboration, dev-ready handoffs, \nand QA validation across milestones.\nIterative Optimization\nPerformance tracking, feature expansion, and \ncontinuous improvement cycles.",
+      "url": "http://127.0.0.1:5188/read/#slide-15",
+      "image": "http://127.0.0.1:5188/assets/slides/15.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-16",
+      "position": 16,
+      "name": "From discovery to optimization",
+      "text": "Product × Design × Growth\n01\n02\n03\n04\n05\n06\n07\n08\nOrbix Studio\nExecutive Discovery & Objective Definition\nResearch & Risk Assessment\nArchitecture & Experience Framework\nInterface System Development\nPrototype Validation\nEngineering Alignment & Implementation\nQuality Assurance & Performance Testing\nLaunch & Ongoing Optimization",
+      "url": "http://127.0.0.1:5188/read/#slide-16",
+      "image": "http://127.0.0.1:5188/assets/slides/16.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-17",
+      "position": 17,
+      "name": "Detailed project workflow",
+      "text": "Product × Design × Growth\nDetailed Project \nWorkflow\nFrom the first meeting to launch, every project follows a clear plan. You know \nwhat we're working on, what you'll receive at each stage, and how the project is \nprogressing.\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-17",
+      "image": "http://127.0.0.1:5188/assets/slides/17.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-18",
+      "position": 18,
+      "name": "Growth without the chaos",
+      "text": "Product × Design × Growth\nFewer Costly \nMistakes\nCatch issues early. \nAvoid costly rework.\nTeams \nWorking in \nSync\nAlign teams and goals to \nkeep projects moving.\nOrbix Studio\nGrowthWithout \nthe Chaos\nBuild a strong \nfoundation for growth.",
+      "url": "http://127.0.0.1:5188/read/#slide-18",
+      "image": "http://127.0.0.1:5188/assets/slides/18.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-19",
+      "position": 19,
+      "name": "Measured impact",
+      "text": "Measured \nImpact\nBetter product experiences lead to better \nbusiness outcomes from converting more \nusers to helping teams ship faster.\n01\n02\n03\nConversion Rate \nOptimization \nClearer interfaces and smoother user journeys \nhelp more people complete key actions.\nOnboarding \nEfficiency \nA simpler first-time experience helps new users \nunderstand your product and reach value sooner.\nFeature Release \nVelocity \nConsistent design and clear developer handoffs help \nteams build and release features with less rework.",
+      "url": "http://127.0.0.1:5188/read/#slide-19",
+      "image": "http://127.0.0.1:5188/assets/slides/19.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-20",
+      "position": 20,
+      "name": "Better workflows, stronger retention",
+      "text": "Product × Design × Growth\nDesign & \nDevelopment \nRework \nStructured documentation and \nalignment processes significantly \nreduce costly back-and.\nUser \nFriction in \nWorkflows \nClearer onboarding flows and reduced \nfriction accelerate time-to-value for \nnew users.\nEnterprise \nUsability & \nRetention \nProducts designed for enterprise-grade \nusability experience stronger long-term \nretention and.\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-20",
+      "image": "http://127.0.0.1:5188/assets/slides/20.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-21",
+      "position": 21,
+      "name": "Performance metrics",
+      "text": "Orbix Studio\nProduct × Design × Growth\nperformance\nWe focus\nmetrics\nn\nnot visuals\noutput alone",
+      "url": "http://127.0.0.1:5188/read/#slide-21",
+      "image": "http://127.0.0.1:5188/assets/slides/21.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-22",
+      "position": 22,
+      "name": "Selected work",
+      "text": "Product × Design × Growth\nSelected\nWork\nEvery engagement we take on is built \naround a scalable digital ecosystem that \nperforms. Our work spans SaaS, fintech, \nlogistics, and enterprise platforms.\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-22",
+      "image": "http://127.0.0.1:5188/assets/slides/22.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-23",
+      "position": 23,
+      "name": "Tuccan — brand identity",
+      "text": "Happy Days\nReady     to     Go.\nFreshly\nBaked\n@2026",
+      "url": "http://127.0.0.1:5188/read/#slide-23",
+      "image": "http://127.0.0.1:5188/assets/slides/23.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-24",
+      "position": 24,
+      "name": "Bunbon — brand identity",
+      "text": "26\nPurple\n#7B60EF\nWarm Cream\n#FFF0D2\n@2026\nPurple\n#7B60EF\nWarm Cream\n#FFF0D2\n@2026",
+      "url": "http://127.0.0.1:5188/read/#slide-24",
+      "image": "http://127.0.0.1:5188/assets/slides/24.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-25",
+      "position": 25,
+      "name": "Koko — brand identity",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-25",
+      "image": "http://127.0.0.1:5188/assets/slides/25.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-26",
+      "position": 26,
+      "name": "Mobile experiences · 01",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-26",
+      "image": "http://127.0.0.1:5188/assets/slides/26.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-27",
+      "position": 27,
+      "name": "Mobile experiences · 02",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-27",
+      "image": "http://127.0.0.1:5188/assets/slides/27.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-28",
+      "position": 28,
+      "name": "Mobile experiences · 03",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-28",
+      "image": "http://127.0.0.1:5188/assets/slides/28.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-29",
+      "position": 29,
+      "name": "Mobile experiences · 04",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-29",
+      "image": "http://127.0.0.1:5188/assets/slides/29.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-30",
+      "position": 30,
+      "name": "Product dashboards",
+      "text": "Zentra\nAsk AI\nD\nMAIN MENU\nOverview\nPortfolio\nMarkets\nTrade\nAnalytics\nHistory\nFINANCE OPS\nStaking\nYield Farming\nAutomations\nAlerts\nFinish Setup\nConnect your wallet to start \ntracking portfolio and earn rewards\n2 of 4\nSkip\nNext\nHelp & Docs\nSettings\nLight Mode\nEnglish (United States)\nSearch coins, pairs & wallets...\nTraffic\nROI\nConversions\nExpenses\nCTR\n982\n+15%\n473\n$884\n2.5%\n+5%\n+3%\n+9%\n-2%\n-0.2%\nMarket Trends\nMarket Cap\nVolume\nBTC Price\nTue, Aug 18 ‘26\nMarket Cap\n+8.35%\nBTC Price\n+5.21%\nVolume\n$68.23B\nTue, Aug 18 ‘26\nApr\nMay\nJun\nJul\nAug\nSep\nTransactions\nBuying Currency\nSell Currency\nTransaction Status\nPending Review\n5.31415 ETH/BTC\n5.31415 ETH/BTC\n14212.14 Market\n14212.14 Market\n80%\nCompleted\n3.14159 LTC/ETH\n3.14159 LTC/ETH\n0.025 Market\n0.025 Market\n100%\nNot Started\n2.71828 BTC/USD\n2.71828 BTC/USD\n58000.50 Market\n58000.50 Market\n0%\nOn Hold\n0.57721 ADA/USD\n0.57721 ADA/ETH\n1.20 Market\n0.00032 Market\n30%\nDelayed\n1.41421 DOGE/ETH\n1.41421 DOGE/USD\n0.00045 Market\n0.240 Market\n45%\nIn Progress\n1.61803 XRP/BTC\n1.61803 XRP/BTC\n0.000023 Market\n0.000023 Market\n65%\n$39,551.76\n$7,960.11\n5.33%\n1.98%\nUnified Trading, \nUSD\nFunding, USD\nCPA\nBuy\nSell\nSwap\nConvert\n$5.41 -0.34%\nYour send\nBTC\n0.1\n3M\nYour receive\nETH\n20%\n~2.5938\n10%\nConvert\n0%\nWatchlist\n-10%\nSymbol\nLast\nCha\nnge\nChange %\nBTC\n$96,183.23\n-6%\n-20%\n+12%\nETH\n$3,218.73\n+12%\n-8%\nOct\nSOL\n$3,218.73\n+12%\n-8%\nBNB\n$236.21\n+8%\n+20%\nXRP\n$627.18\n+8%\n+12%\nADA\n$1.12\n+5%\n+5%\nView More\nRegistration with Zentra\nSell Rate\nOpen your crypto wallet app and scan the \nQR code to register with Zentra.\n-6%\n+12%\n+8%\n-3%\n+15%\n+5%\nActivate QR\nIf an error occurs scanning the QR code, \ncheck your wallet app and try again.",
+      "url": "http://127.0.0.1:5188/read/#slide-30",
+      "image": "http://127.0.0.1:5188/assets/slides/30.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-31",
+      "position": 31,
+      "name": "Web platforms",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-31",
+      "image": "http://127.0.0.1:5188/assets/slides/31.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-32",
+      "position": 32,
+      "name": "Product platforms",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-32",
+      "image": "http://127.0.0.1:5188/assets/slides/32.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-33",
+      "position": 33,
+      "name": "SaaS & enterprise platforms",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-33",
+      "image": "http://127.0.0.1:5188/assets/slides/33.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-34",
+      "position": 34,
+      "name": "Website design",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-34",
+      "image": "http://127.0.0.1:5188/assets/slides/34.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-35",
+      "position": 35,
+      "name": "Websites & digital experiences",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-35",
+      "image": "http://127.0.0.1:5188/assets/slides/35.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-36",
+      "position": 36,
+      "name": "AI creative production",
+      "text": "",
+      "url": "http://127.0.0.1:5188/read/#slide-36",
+      "image": "http://127.0.0.1:5188/assets/slides/36.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-37",
+      "position": 37,
+      "name": "Our story",
+      "text": "Product × Design × Growth\nOur\nStory\nOribix Studio started with a simple belief: digital \nproducts should bring clarity, not complexity. As \nproducts grew, we saw brand, UX, and engineering \ndrifting apart. Today, we help teams bring them back \ntogether to build products that scale.\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-37",
+      "image": "http://127.0.0.1:5188/assets/slides/37.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-38",
+      "position": 38,
+      "name": "Mission & vision",
+      "text": "Product × Design × Growth\nMission\n& Vision\nMission\nTO DESIGN AND BUILD DIGITAL \nPRODUCTS THAT SOLVE REAL \nPROBLEMS, DELIVER LASTING VALUE, \nAND HELP BUSINESSES GROW.\nOrbix Studio\nVision\nTO BECOME A TRUSTED GLOBAL \nPRODUCT PARTNER, HELPING \nAMBITIOUS COMPANIES BUILD BETTER \nSAAS, FINTECH, AND ENTERPRISE \nPRODUCTS.",
+      "url": "http://127.0.0.1:5188/read/#slide-38",
+      "image": "http://127.0.0.1:5188/assets/slides/38.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-39",
+      "position": 39,
+      "name": "Our core values",
+      "text": "Product × Design × Growth\nOur Core\nValues\nLong-Term \nThinking\nProducts built to adapt, grow, and stay \nuseful long after launch.\nStructure \nOver Noise\nClarity and systems over trends, visual \nexcess, or short-lived design patterns.\nAccountability\nClear deliverables, shared ownership, \nand transparent collaboration at \nevery stage.\nOrbix Studio\nStrategy Before \nExecution\nEvery decision is anchored in business \nlogic and measurable objectives.\nContinuous \nImprovement\nProducts get better through user \nfeedback, careful testing, and \nongoing refinement.",
+      "url": "http://127.0.0.1:5188/read/#slide-39",
+      "image": "http://127.0.0.1:5188/assets/slides/39.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-40",
+      "position": 40,
+      "name": "Product-first philosophy",
+      "text": "Product × Design × Growth\nProduct-First \nPhilosophy\nGreat products start with the right idea. We focus on what \nmatters to your users, simplify what doesn't, and turn your \nvision into a product built to last.\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-40",
+      "image": "http://127.0.0.1:5188/assets/slides/40.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-41",
+      "position": 41,
+      "name": "Our team structure",
+      "text": "Orbix Studio\nProduct × Design × Growth\nOur Team \nStructure\nDesigners and developers work as one team, from the \nfirst idea to the final build. This close collaboration \ngives your product the space to grow, evolve, and \nreach its full potential.",
+      "url": "http://127.0.0.1:5188/read/#slide-41",
+      "image": "http://127.0.0.1:5188/assets/slides/41.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-42",
+      "position": 42,
+      "name": "Our product disciplines",
+      "text": "Product × Design × Growth\n01\nProduct\nStrategists\n04\nFrontend\nEngineers\n02\nUX\nArchitects\n05\nProjects &\nDelivery\n03\nUI & Design\nSystem\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-42",
+      "image": "http://127.0.0.1:5188/assets/slides/42.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-43",
+      "position": 43,
+      "name": "Departments & capabilities",
+      "text": "Product × Design × Growth\nDepartments \n& Capabilities\nOur structure is built around three core pillars that \nkeep strategy, design, and development aligned \nacross every engagement.\nOrbix Studio\nStrategy & Research\nPilar 01\nPositioning, product strategy, UX research, \nand architecture planning.\nDesign & Systems\nPilar 02\nBrand systems, UX frameworks, interface \ndesign, and scalable component libraries.\nDevelopment &\nImplementation\nPilar 03\nFront-end collaboration, system documentation, \nQA alignment, and performance optimization.",
+      "url": "http://127.0.0.1:5188/read/#slide-43",
+      "image": "http://127.0.0.1:5188/assets/slides/43.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-44",
+      "position": 44,
+      "name": "Remote & global collaboration",
+      "text": "Product × Design × Growth\nRemote & Global \nCollaboration Model\nOrbix Studio brings designers and developers together from around the world to build better digital products \nthrough clear communication and close collaboration, turning bold ideas into meaningful experiences that \ncreate lasting business value.\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-44",
+      "image": "http://127.0.0.1:5188/assets/slides/44.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-45",
+      "position": 45,
+      "name": "How we structure engagements",
+      "text": "Orbix Studio\nProduct × Design × Growth\nHow We Structure \nEngagements\nEvery engagement at Orbix Studio begins with clear objectives, defined scope, and aligned \nteams. This keeps the work focused, accountable, and moving forward from the start.\nClear Objectives & KPIs\nDefined Scope Boundaries\nMilestone-Based Delivery\nExecutive Reporting Cadence\nGovernance & Approval Gates",
+      "url": "http://127.0.0.1:5188/read/#slide-45",
+      "image": "http://127.0.0.1:5188/assets/slides/45.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-46",
+      "position": 46,
+      "name": "Ongoing product growth",
+      "text": "Orbix Studio\nProduct × Design × Growth\nRetainer Model for \nOngoing Product \nGrowth\nAs your product evolves, We stay by your side to \nimprove existing features, build new ones, and keep \nyour product aligned with changing user needs.",
+      "url": "http://127.0.0.1:5188/read/#slide-46",
+      "image": "http://127.0.0.1:5188/assets/slides/46.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-47",
+      "position": 47,
+      "name": "Product launch program",
+      "text": "Product × Design × Growth\nProduct \nLaunch \nProgram\n01\n02\nOur product launch program helps startups and \nenterprises reduce risk and prepare brand, product, \nand performance for release or relaunch.\n03\nOrbix Studio\nFoundation\nPositioning, product strategy, UX research, \nand architecture planning.\nBuild\nBrand systems, UX frameworks, interface \ndesign, and scalable component libraries.\nLaunch\nFront-end collaboration, system documentation, \nQA alignment, and performance optimization.",
+      "url": "http://127.0.0.1:5188/read/#slide-47",
+      "image": "http://127.0.0.1:5188/assets/slides/47.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-48",
+      "position": 48,
+      "name": "Our collaboration framework",
+      "text": "Product × Design × Growth\nOur \nCollaboration \nFramework\nOrbix Studio helps startups and enterprises reduce \nrisk and prepare brand, product, and performance for \nrelease or relaunch.\n       Executive \nkickoff alignment:\n01\n       Defined \nstakeholder roles:\n02\n       Weekly \nsprint reviews:\n03\n        Milestone reporting and \ndocumentation transparency:\n04\nOrbix Studio\nObjectives, roles, and success \ncriteria defined before work begins.\nClear ownership across client and \nOrbix teams with no ambiguity.\nProgress updates with documented \noutcomes and next steps.\nClear progress, documented \ndecisions, and milestone visibility.",
+      "url": "http://127.0.0.1:5188/read/#slide-48",
+      "image": "http://127.0.0.1:5188/assets/slides/48.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-49",
+      "position": 49,
+      "name": "Average project timelines",
+      "text": "Product × Design × Growth\nAverage\n P\nroject \nTimelines\nProject timelines depend on the scope, \ncomplexity, and feedback involved. These \nestimates cover the full process, from initial \nresearch and design to development handoff.\nBrand Strategy\nMarketing Website \n(Design & Build)\nSaaS Product Design\nEnterprise \nDashboard Systems\nDesign System \nDevelopment\nOrbix Studio\n4–8 weeks\n6–16 weeks\n8–24 weeks\n12–32 weeks\n6–12 weeks",
+      "url": "http://127.0.0.1:5188/read/#slide-49",
+      "image": "http://127.0.0.1:5188/assets/slides/49.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-50",
+      "position": 50,
+      "name": "Investment ranges",
+      "text": "Product × Design × Growth\nInvestment \nRanges\nProject pricing varies based on scope, complexity, \nand product requirements. The ranges below \nreflect common engagement ranges.\nBrand Systems\nMarketing Website \n(Design & Development)\nSaaS Product Design\nEnterprise Product \nSystems\nRetainer \nPartnerships\nOrbix Studio\n$15K – $50K\n$25K – $80K\n$30K – $120K\nCustom Scoping\nCustom Monthly Structure",
+      "url": "http://127.0.0.1:5188/read/#slide-50",
+      "image": "http://127.0.0.1:5188/assets/slides/50.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-51",
+      "position": 51,
+      "name": "What sets us apart",
+      "text": "Product × Design × Growth\n01\nWhat Sets \nUs Apart\n02\n03\n04\nWe combine thoughtful design, \ntechnical expertise, and business \ngoals to build products that solve real \nproblems, deliver measurable results, \nand grow with your business.\n05\nOrbix Studio\nFull-Cycle \nIntegration\nBrand, UX, and product \nbuilt as one system.\nSystem-First \nThinking\nScalable systems \ndesigned for growth.\nExecutive-Level \nAlignment\nClear communication \nand faster decisions.\nMeasurable \nImpact\nFocused on \nperformance and real \noutcomes.\nLong-Term \nPartnership Mindset\nOngoing support \nbeyond launch.",
+      "url": "http://127.0.0.1:5188/read/#slide-51",
+      "image": "http://127.0.0.1:5188/assets/slides/51.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-52",
+      "position": 52,
+      "name": "Let’s build what matters",
+      "text": "Product × Design × Growth\nWhat Matters\nLet’s Build\nOrbix Studio partners with organizations that take their digital \ninfrastructure seriously.\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-52",
+      "image": "http://127.0.0.1:5188/assets/slides/52.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-53",
+      "position": 53,
+      "name": "Service pricing ranges",
+      "text": "Product × Design × Growth\nService Pricing \nRanges\nEvery project is different. Our pricing \nranges reflect the work involved, from \nfocused design projects to complete \nproduct development.\nR\na\nn\ng\ne\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-53",
+      "image": "http://127.0.0.1:5188/assets/slides/53.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-54",
+      "position": 54,
+      "name": "Strategy & brand pricing",
+      "text": "Orbix Studio\nProduct × Design × Growth\nStrategy & \nResearch\nProduct Strategy & Positioning\nUX Research & Architecture\nProduct Audit & Optimization\n$15K – $40K\n$12K – $35K\nCustom Scope\nVisual Identity Systems\n$20K – $60K\n$15K – $45K\n$40K+\nBrand Strategy\nBrand \nSystems\nFull Brand & Product \nAlignment Program",
+      "url": "http://127.0.0.1:5188/read/#slide-54",
+      "image": "http://127.0.0.1:5188/assets/slides/54.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-55",
+      "position": 55,
+      "name": "Design & development pricing",
+      "text": "Product × Design × Growth\nUX & Interface \nDesign\nDevelopment \nSupport\nOrbix Studio\nSaaS Product Design (MVP)\nEnterprise Product Systems\nDesign System Development\n$18K – $50K\n$30K – $90K\n$60K – $150K+\n$20K – $55K\nMarketing Website Design\nCMS & Website Development\n$25K – $120K\n$20K – $70K\nCustom Scope\nFrontend Implementation \n(Product)\nCMS & Website Development",
+      "url": "http://127.0.0.1:5188/read/#slide-55",
+      "image": "http://127.0.0.1:5188/assets/slides/55.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-56",
+      "position": 56,
+      "name": "How we work",
+      "text": "Product × Design × Growth\nAverage Hourly Rate\n$50  – $99 / hour\nDepending on specialization and scope\nHow We Work\nEvery engagement starts with your goals, scope, and priorities. \nWe focus on delivering meaningful results, building products that \ncan grow, and making the most of your investment.\n\n\n\nOrbix Studio",
+      "url": "http://127.0.0.1:5188/read/#slide-56",
+      "image": "http://127.0.0.1:5188/assets/slides/56.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "http://127.0.0.1:5188/read/#slide-57",
+      "position": 57,
+      "name": "Contact & next steps",
+      "text": "Orbix Studio\nProduct × Design × Growth\nContact & \nNext Steps\nLet’s talk About Your Product\nStart with a discovery call to align on your goals, \nchallenges, and next steps.\nStep 01\nStep 02\nStep 03\nAlignment Call\nGoals, priorities, and current state.\nScope & Proposal\nDeliverables, timeline, and investment.\nRoadmap & Kickoff\nPlan, team alignment, and project launch.\nHave a project in mind?\nhello@orbix.studio\nOrbix Studio\nLet’s Build What’s Next.\nPrefer to talk?\n+1 (646) 598-7983",
+      "url": "http://127.0.0.1:5188/read/#slide-57",
+      "image": "http://127.0.0.1:5188/assets/slides/57.webp",
+      "isPartOf": {
+        "@id": "http://127.0.0.1:5188/read/#deck"
+      }
+    }
+  ]
+}

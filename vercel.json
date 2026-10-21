@@ -1,0 +1,10 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/read", "destination": "/read/index.html" },
+    { "source": "/read/", "destination": "/read/index.html" },
+    { "source": "/((?!assets/|data/|read|.*\\..*).*)", "destination": "/index.html" }
+  ]
+}
